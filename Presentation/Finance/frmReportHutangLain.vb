@@ -1,0 +1,203 @@
+﻿'|-----------------------
+'|  CREATED BY RENDY    |
+'|  EDITED BY RENDY     |
+'|-----------------------
+Imports System.Data.SqlClient
+Imports DevExpress.XtraGrid.Views.Grid
+Imports DevExpress.XtraGrid.Views.Base
+Public Class frmReportHutangLain
+    Public btnSave As Boolean = False
+    Public btnadd As Boolean = False
+    Public btnCancel As Boolean = False
+    Public btnDelete As Boolean = False
+    Public btnEdit As Boolean = False
+    Public prn As frmMain
+    Dim err As String = ""
+    Dim isvalid As Boolean
+
+    Dim VarTahun As String
+    Dim VarBulan As String
+
+    Dim dsThn, dsBln, dsRekap, dsDetUt, dsLunas, dsValuta, dsSupp, dsLookUp As New DataSet
+    Dim daThn, daBln, daRekap, daDetUt, daLunas, daValuta, daSupp, daLookUp As SqlDataAdapter
+    Private Sub frmReportHutangLain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        connect()
+        prn = getParent(Me)
+
+        loadLookUP()
+
+        Me.Enabled = True
+    End Sub
+
+    Sub loadLookUP()
+        dsValuta.Clear()
+        daValuta = New SqlDataAdapter(New SqlCommand("select Kode_Valuta, Nama_Valuta from SIF.dbo.SIF_Valuta", sqlconn))
+        daValuta.Fill(dsValuta, "Valuta")
+        Valuta.Properties.DataSource = dsValuta.Tables("Valuta")
+        Valuta.Properties.DisplayMember = "Nama_Valuta"
+        Valuta.Properties.ValueMember = "Kode_Valuta"
+
+        dsSupp.Clear()
+        daSupp = New SqlDataAdapter(New SqlCommand("select nama,kode from FIN.dbo.v_kartu", sqlconn))
+        daSupp.Fill(dsSupp, "kartu")
+        KartuX.Properties.DataSource = dsSupp.Tables("kartu")
+        KartuX.Properties.DisplayMember = "nama"
+        KartuX.Properties.ValueMember = "kode"
+
+        If Not dsLookUp.Tables("LookPeriode") Is Nothing Then dsLookUp.Tables("LookPeriode").Clear()
+        daLookUp = New SqlDataAdapter(New SqlCommand("SELECT thn_buku + bln_buku AS 'thnbln', nama_bulan + ' ' + thn_buku as 'nama' FROM SIF.dbo.SIF_Periode_Buku", sqlconn))
+        daLookUp.Fill(dsLookUp, "LookPeriode")
+        lookupBulanAwal.Properties.DataSource = dsLookUp.Tables("LookPeriode")
+        lookupBulanAwal.Properties.DisplayMember = "nama"
+        lookupBulanAwal.Properties.ValueMember = "thnbln"
+    End Sub
+
+    Sub bersih()
+        KartuX.EditValue = vbNullString
+        Valuta.EditValue = vbNullString
+      
+    End Sub
+
+    Sub CetakLaporan(Optional ByVal kartu As String = "", Optional ByVal Vall As String = "", Optional ByVal thnbln As String = "", Optional ByVal Boll As String = "")
+        ErrorProvider1.Clear()
+
+        'IF PRIMER 
+        If CERekapHutang.Checked = False And CEDetailHutang.Checked = False And CEKartuHutang.Checked = False And CEAgingHutang.Checked = False Then
+            ErrorProvider1.SetError(CERekapHutang, "Pilih Salah Satu")
+            ErrorProvider1.SetError(CEDetailHutang, "Pilih Salah Satu")
+            ErrorProvider1.SetError(CEKartuHutang, "Pilih Salah Satu")
+            ErrorProvider1.SetError(CEAgingHutang, "Pilih Salah Satu")
+        Else
+
+            'IF REKAP
+            If CERekapHutang.Checked = True Then
+                If CEKartuHutang.Checked = True Then
+                    callReport(App_Path() & "\report\CRRekapHutLain.rpt", "", "", Boll)
+                End If
+                If CEAgingHutang.Checked = True Then
+                    callReport(App_Path() & "\report\CRRekapAgingHutangLain.rpt", "", "", Boll)
+                End If
+            End If
+
+            'IF DETAIL
+            If CEDetailHutang.Checked = True Then
+
+                'IF KARTU DETAIL
+                '=====================================================================
+                If CEKartuHutang.Checked = True Then
+                    '=====================================================================
+
+                    If Valuta.EditValue = vbNullString Then
+                        ErrorProvider1.SetError(Valuta, "Valuta Tidak Boleh Kosong")
+                    Else
+                        If Valuta.EditValue <> vbNullString And KartuX.EditValue = vbNullString And lookupBulanAwal.EditValue = vbNullString Then
+                            Try
+                                callReport(App_Path() & "\report\CRHutPiutLainAll.rpt", "", "&valuta=" & Vall, Boll)
+                            Catch ex As Exception
+                                lblError.Text = ex.Message
+                            End Try
+                        Else
+                            If KartuX.EditValue = vbNullString Then
+                                ErrorProvider1.SetError(KartuX, "Kartu Tidak Boleh Kosong")
+                            ElseIf lookupBulanAwal.EditValue = vbNullString Then
+                                ErrorProvider1.SetError(lookupBulanAwal, "Tahun Bulan Tidak Boleh Kosong")
+                            Else
+                                Try
+                                    callReport(App_Path() & "\report\CRHutPiutLainDetail.rpt", "", "&kartu=" & kartu & "&valuta=" & Vall & "&thnbln=" & thnbln, Boll)
+                                Catch ex As Exception
+                                    lblError.Text = ex.Message
+                                End Try
+                            End If
+                        End If
+                    End If
+                    '=====================================================================
+                End If
+                '=====================================================================
+
+                'IF AGING DETAIL
+                '*********************************************************************
+                If CEAgingHutang.Checked = True Then
+                    '*********************************************************************
+                    If Valuta.EditValue = vbNullString Then
+                        ErrorProvider1.SetError(Valuta, "Valuta Tidak Boleh Kosong")
+                    Else
+                        If Valuta.EditValue <> vbNullString And KartuX.EditValue = vbNullString And lookupBulanAwal.EditValue = vbNullString Then
+                            Try
+                                callReport(App_Path() & "\report\CRAgingHutPiutLainAll.rpt", "", "&valuta=" & Vall, Boll)
+                            Catch ex As Exception
+                                lblError.Text = ex.Message
+                            End Try
+                        Else
+                            If KartuX.EditValue = vbNullString Then
+                                ErrorProvider1.SetError(KartuX, "Kartu Tidak Boleh Kosong")
+                            ElseIf lookupBulanAwal.EditValue = vbNullString Then
+                                ErrorProvider1.SetError(lookupBulanAwal, "Tahun Bulan Tidak Boleh Kosong")
+                            Else
+                                Try
+                                    callReport(App_Path() & "\report\CRAgingHutPiutLainDetail.rpt", "", "&kartu=" & kartu & "&valuta=" & Vall & "&thnbln=" & thnbln, Boll)
+                                Catch ex As Exception
+                                    lblError.Text = ex.Message
+                                End Try
+                            End If
+                        End If
+                    End If
+                    '*********************************************************************
+                End If
+                '*********************************************************************
+
+                'END IF DETAIL
+            End If
+            'END IF PRIMER 
+        End If
+
+    End Sub
+
+    Private Sub cmdExe_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdExe.Click
+        CetakLaporan(KartuX.EditValue, Valuta.EditValue, VarTahun & VarBulan, "false")
+    End Sub
+
+    Private Sub cmdPrint_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdPrint.Click
+        CetakLaporan(KartuX.EditValue, Valuta.EditValue, VarTahun & VarBulan, "true")
+    End Sub
+
+    Private Sub cmdClear_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdClear.Click
+        bersih()
+    End Sub
+
+    Private Sub CErekap_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CERekapHutang.CheckedChanged
+        If CERekapHutang.Checked = True Then
+            CEDetailHutang.Checked = False
+        Else
+            CEDetailHutang.Checked = True
+        End If
+    End Sub
+
+    Private Sub CEHutPiut_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CEDetailHutang.CheckedChanged
+        If CEDetailHutang.Checked = True Then
+            CERekapHutang.Checked = False
+        Else
+            CERekapHutang.Checked = True
+        End If
+    End Sub
+
+    Private Sub CEKartuHutang_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CEKartuHutang.CheckedChanged
+        If CEKartuHutang.Checked = True Then
+            CEAgingHutang.Checked = False
+        Else
+            CEAgingHutang.Checked = True
+        End If
+    End Sub
+
+    Private Sub CEAgingHutang_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CEAgingHutang.CheckedChanged
+        If CEAgingHutang.Checked = True Then
+            CEKartuHutang.Checked = False
+        Else
+            CEKartuHutang.Checked = True
+        End If
+    End Sub
+
+    Private Sub lookupBulanAwal_EditValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lookupBulanAwal.EditValueChanged
+        VarTahun = Microsoft.VisualBasic.Left(lookupBulanAwal.EditValue, 4)
+        VarBulan = Microsoft.VisualBasic.Right(lookupBulanAwal.EditValue, 2)
+    End Sub
+End Class

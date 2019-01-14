@@ -1,0 +1,15 @@
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\BussinesLogic\bin\Release\BussinesLogic.dll
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\BussinesLogic\bin\Release\BussinesLogic.pdb
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\BussinesLogic\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\BussinesLogic\obj\Release\BussinesLogic.dll
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\BussinesLogic\obj\Release\BussinesLogic.pdb
+E:\Project\AmericanPillowGroup\BussinesLogic\bin\Release\BussinesLogic.dll
+E:\Project\AmericanPillowGroup\BussinesLogic\bin\Release\BussinesLogic.pdb
+E:\Project\AmericanPillowGroup\BussinesLogic\obj\Release\ResolveAssemblyReference.cache
+E:\Project\AmericanPillowGroup\BussinesLogic\obj\Release\BussinesLogic.dll
+E:\Project\AmericanPillowGroup\BussinesLogic\obj\Release\BussinesLogic.pdb
+D:\Projects\KOPKAR\BussinesLogic\bin\Release\BussinesLogic.dll
+D:\Projects\KOPKAR\BussinesLogic\bin\Release\BussinesLogic.pdb
+D:\Projects\KOPKAR\BussinesLogic\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\KOPKAR\BussinesLogic\obj\Release\BussinesLogic.dll
+D:\Projects\KOPKAR\BussinesLogic\obj\Release\BussinesLogic.pdb

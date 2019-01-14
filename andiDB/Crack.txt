@@ -1,0 +1,16 @@
+Crystal Reports Professional v10.0.0.533
+
+ INSTALL NOTES:
+
+ 1.) unzip 
+ 2.) unrar or use our installer 
+ 3.) run setup.exe 
+ 4.) use the following registration information during the setup: 
+           
+           
+FULL NAME    -> PARADOX
+ORGANIZATION -> PDX-ROXX
+KEY CODE     -> A5860-01C000G-T4C00JP
+
+kode nya:
+1231467890

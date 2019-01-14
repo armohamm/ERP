@@ -1,0 +1,32 @@
+C:\AmericanPillowGroup\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\AmericanPillowGroup\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\AmericanPillowGroup\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\AmericanPillowGroup\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\AmericanPillowGroup\BussinesLogic\obj\Debug\BussinesLogic.pdb
+E:\Project\AmericanPillowGroup\BussinesLogic\bin\Debug\BussinesLogic.dll
+E:\Project\AmericanPillowGroup\BussinesLogic\bin\Debug\BussinesLogic.pdb
+E:\Project\AmericanPillowGroup\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\AmericanPillowGroup\BussinesLogic\obj\Debug\BussinesLogic.dll
+E:\Project\AmericanPillowGroup\BussinesLogic\obj\Debug\BussinesLogic.pdb
+D:\Projects\AmericanPilloDIM_2\BussinesLogic\bin\Debug\BussinesLogic.dll
+D:\Projects\AmericanPilloDIM_2\BussinesLogic\bin\Debug\BussinesLogic.pdb
+D:\Projects\AmericanPilloDIM_2\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AmericanPilloDIM_2\BussinesLogic\obj\Debug\BussinesLogic.dll
+D:\Projects\AmericanPilloDIM_2\BussinesLogic\obj\Debug\BussinesLogic.pdb
+D:\Projects\KOPKAR\KOPKAR\BussinesLogic\bin\Debug\BussinesLogic.dll
+D:\Projects\KOPKAR\KOPKAR\BussinesLogic\bin\Debug\BussinesLogic.pdb
+D:\Projects\KOPKAR\KOPKAR\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\KOPKAR\KOPKAR\BussinesLogic\obj\Debug\BussinesLogic.dll
+D:\Projects\KOPKAR\KOPKAR\BussinesLogic\obj\Debug\BussinesLogic.pdb
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\BussinesLogic\bin\Debug\BussinesLogic.dll
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\BussinesLogic\bin\Debug\BussinesLogic.pdb
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\BussinesLogic\obj\Debug\BussinesLogic.dll
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\BussinesLogic\obj\Debug\BussinesLogic.pdb
+D:\Projects\KOPKAR\BussinesLogic\bin\Debug\BussinesLogic.dll
+D:\Projects\KOPKAR\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Y\Pro\ERP\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Y\Pro\ERP\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Y\Pro\ERP\BussinesLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Y\Pro\ERP\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Y\Pro\ERP\BussinesLogic\obj\Debug\BussinesLogic.pdb

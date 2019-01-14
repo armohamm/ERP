@@ -1,0 +1,40 @@
+C:\AmericanPillowGroup\DataAcess\bin\Debug\DataAcess.dll
+C:\AmericanPillowGroup\DataAcess\bin\Debug\DataAcess.pdb
+C:\AmericanPillowGroup\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+C:\AmericanPillowGroup\DataAcess\obj\Debug\DataAcess.dll
+C:\AmericanPillowGroup\DataAcess\obj\Debug\DataAcess.pdb
+C:\Users\Inspiron\Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\Inspiron\Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\Inspiron\Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Inspiron\Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\Inspiron\Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\obj\Debug\DataAcess.pdb
+E:\Project\AmericanPillowGroup\DataAcess\bin\Debug\DataAcess.dll
+E:\Project\AmericanPillowGroup\DataAcess\bin\Debug\DataAcess.pdb
+E:\Project\AmericanPillowGroup\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\AmericanPillowGroup\DataAcess\obj\Debug\DataAcess.dll
+E:\Project\AmericanPillowGroup\DataAcess\obj\Debug\DataAcess.pdb
+D:\Projects\AmericanPilloDIM_2\DataAcess\bin\Debug\DataAcess.dll
+D:\Projects\AmericanPilloDIM_2\DataAcess\bin\Debug\DataAcess.pdb
+D:\Projects\AmericanPilloDIM_2\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AmericanPilloDIM_2\DataAcess\obj\Debug\DataAcess.dll
+D:\Projects\AmericanPilloDIM_2\DataAcess\obj\Debug\DataAcess.pdb
+D:\Projects\KOPKAR\KOPKAR\DataAcess\bin\Debug\DataAcess.dll
+D:\Projects\KOPKAR\KOPKAR\DataAcess\bin\Debug\DataAcess.pdb
+D:\Projects\KOPKAR\KOPKAR\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\KOPKAR\KOPKAR\DataAcess\obj\Debug\DataAcess.dll
+D:\Projects\KOPKAR\KOPKAR\DataAcess\obj\Debug\DataAcess.pdb
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\DataAcess\bin\Debug\DataAcess.dll
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\DataAcess\bin\Debug\DataAcess.pdb
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\DataAcess\obj\Debug\DataAcess.dll
+D:\Data Kerja\KOPKAR\18 feb KOPKAR\KOPKAR\DataAcess\obj\Debug\DataAcess.pdb
+D:\Projects\KOPKAR\DataAcess\bin\Debug\DataAcess.dll
+D:\Projects\KOPKAR\DataAcess\bin\Debug\DataAcess.pdb
+D:\Projects\KOPKAR\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\KOPKAR\DataAcess\obj\Debug\DataAcess.dll
+D:\Projects\KOPKAR\DataAcess\obj\Debug\DataAcess.pdb
+C:\Y\Pro\ERP\DataAcess\bin\Debug\DataAcess.dll
+C:\Y\Pro\ERP\DataAcess\bin\Debug\DataAcess.pdb
+C:\Y\Pro\ERP\DataAcess\obj\Debug\ResolveAssemblyReference.cache
+C:\Y\Pro\ERP\DataAcess\obj\Debug\DataAcess.dll
+C:\Y\Pro\ERP\DataAcess\obj\Debug\DataAcess.pdb

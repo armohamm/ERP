@@ -1,0 +1,893 @@
+﻿'======================================================================
+'= Dikerjakan oleh Yahya Drake Rozi   http://yayakdrake.blogspot.com  =
+'= yahya.rozi@quadras.co.id // yahyarozi@gmail.com                    =
+'= Project: Dinasty group american pillow @2015                       =
+'= Sebelum Coding Jangan Lupa kopi + JI Sam SU                        =
+'======================================================================
+
+Imports System.Data.SqlClient
+Imports System.Globalization
+Imports DevExpress.XtraPrintingLinks
+Imports DevExpress.XtraPrinting
+Imports DevExpress.XtraReports.UI
+Imports DevExpress.XtraGrid.Views.Base
+Imports DevExpress.XtraGrid.Columns
+Imports DevExpress.XtraGrid
+Imports DevExpress.XtraGrid.Views.Grid
+
+
+
+Public Class frmMon_StandRet2
+    Private thisThread As System.Threading.Thread = System.Threading.Thread.CurrentThread
+    Private originalCulture As System.Globalization.CultureInfo = thisThread.CurrentCulture
+    Public btnSave As Boolean = False
+    Public btnadd As Boolean = True
+    Public btnCancel As Boolean = False
+    Public btnDelete As Boolean = False
+    Public btnEdit As Boolean = True
+    Public prn As frmMain '<-- untuk mengakses frmMain
+    Public STATE, id_anggota, jns, subReport, subReport2 As String '<-- untuk mengecek status saat ini (ADD, EDIT, delete)
+    Private dSO, dSO1, ds_tbh, ds_cari3, dso2, ds_cari, ds_cari1, ds_gdg1, ds_gdg2 As New DataSet
+    Private Buildernya As New SqlClient.SqlCommandBuilder
+    Private row As DataRow
+    Private DA, DA2, DALOOKUP, DALOOKUP1, DA_gdg1, DA_gdg2 As SqlClient.SqlDataAdapter
+    Private x As Int16 = 1
+    Private bunga, tempo, pokok, bsr_pjm, angs, denda, t_bunga, total, recov, asr As Double
+    Private BTRAN As SqlTransaction
+    Public drl As DataRelation
+    Public pilih, kd_krd As String
+    Public vendor_name As String
+
+
+    Public Sub add_click()
+        ' Contoh Bila Menekan tombol add di Frmmain
+        'Dim myBuilder As New SqlClient.SqlCommandBuilder
+
+        btnSave = True
+        btnEdit = False
+        btnadd = False
+        btnCancel = True
+        btnDelete = True
+        setStatus()
+        'bersihkan()
+        'dtpTgl.EditValue = getTanggal()
+        'enabel()
+        'GvBKE_d.Columns("no_seq").Visible = False
+        STATE = "ADD" '<-- set state add
+        LoadStruktur()
+    End Sub
+
+    Public Sub setStatus()
+        With prn
+            .btnAdd.Enabled = btnadd
+            .btnCancel.Enabled = btnCancel
+            .btnDelete.Enabled = btnDelete
+            .btnEdit.Enabled = btnEdit
+            .btnSave.Enabled = btnSave
+        End With
+    End Sub
+    Public Sub edit_click()
+
+        btnSave = True
+        btnEdit = False
+        btnadd = False
+        btnCancel = True
+        setStatus()
+        'bersihkan()
+        'dtpTgl.EditValue = getTanggal()
+        'enabel()
+        'GvBKE_d.Columns("no_seq").Visible = False
+        STATE = "ADD" '<-- s
+        LoadStruktur()
+    End Sub
+
+    Public Sub cetak_click()
+        Dim composLink As CompositeLink = New CompositeLink(New PrintingSystem())
+        AddHandler composLink.CreateDetailFooterArea, AddressOf pcLink_CreateReportFooterArea
+        composLink.PaperKind = Printing.PaperKind.Legal
+        composLink.Landscape = True
+        composLink.Margins.Top = 50
+        composLink.Margins.Right = 50
+        composLink.Margins.Bottom = 50
+        composLink.Margins.Left = 50
+
+
+        GV_RLSKRD.OptionsPrint.UsePrintStyles = True
+        GV_RLSKRD.Columns("gc_hapus").Visible = False
+        GV_RLSKRD.Columns("nomer").Visible = False
+
+        'AddHandler composLink.CreateMarginalHeaderArea, AddressOf composLink_CreateMarginalHeaderArea
+        Dim pcLink1 As PrintableComponentLink = New PrintableComponentLink()
+
+        Dim pcLink2 As PrintableComponentLink = New PrintableComponentLink()
+        'AddHandler pcLink2.CreateDetailFooterArea, AddressOf pcLink_CreateReportFooterArea
+        'Dim linkMainReport As Link = New Link()
+        'AddHandler linkMainReport.CreateDetailArea, AddressOf linkMainReport_CreateDetailArea
+        Dim linkGrid1Report As Link = New Link()
+        AddHandler linkGrid1Report.CreateDetailArea, AddressOf linkGrid1Report_CreateDetailArea
+        Dim linkGrid2Report As Link = New Link()
+        AddHandler linkGrid2Report.CreateDetailArea, AddressOf linkGrid2Report_CreateDetailArea
+
+        Dim linkPageBreak As Link = New Link()
+        AddHandler linkPageBreak.CreateDetailArea, AddressOf linkPageBreak_CreateDetailArea
+
+        Dim GcClone As DevExpress.XtraGrid.GridControl = New GridControl()
+        GcClone.MainView = New GridView(GcClone)
+        GcClone.MainView.Assign(GcINV_Ret.MainView, False)
+        GcClone.MainView.Name = "GV_RLSKRDClone"
+
+        Dim colBarang As GridColumn = GV_RLSKRD.Columns("namabarang")
+        GV_RLSKRD.ClearGrouping()
+        colBarang.GroupIndex = 1
+
+        GcClone.DataSource = GcINV_Ret.DataSource
+        Controls.Add(GcClone)
+        GcClone.Visible = False
+
+        Dim viewClone As ColumnView = GcClone.Views(0)
+        viewClone.Columns("namabarang").GroupIndex = 1
+
+        Dim view As ColumnView = GV_RLSKRD
+        Dim viewFilterNon As New ViewColumnFilterInfo(view.Columns("kd_jns_supplier"), _
+          New ColumnFilterInfo("[kd_jns_supplier] = 1", ""))
+        view.ActiveFilter.Add(viewFilterNon)
+        pcLink1.Component = Me.GcINV_Ret
+
+        Dim viewFilterSupp As New ViewColumnFilterInfo(viewClone.Columns("kd_jns_supplier"), _
+          New ColumnFilterInfo("[kd_jns_supplier] = 2", ""))
+        viewClone.ActiveFilter.Add(viewFilterSupp)
+        pcLink2.Component = GcClone
+
+        composLink.Links.Add(linkGrid1Report)
+        composLink.Links.Add(pcLink1)
+        composLink.Links.Add(linkPageBreak)
+        composLink.Links.Add(linkGrid2Report)
+        composLink.Links.Add(pcLink2)
+        composLink.ShowPreviewDialog()
+
+        view.ActiveFilter.Clear()
+        GV_RLSKRD.Columns("nomer").Visible = True
+        GV_RLSKRD.Columns("nomer").VisibleIndex = 1
+        GV_RLSKRD.Columns("gc_hapus").Visible = True
+        GV_RLSKRD.ClearGrouping()
+    End Sub
+    Sub print_gc1(ByVal xGc As Object, ByVal xreportHeader As String)
+        Dim ps As New PrintingSystem()
+        Dim link As New PrintableComponentLink(ps)
+        Dim ph As DevExpress.XtraPrinting.PageHeaderFooter = CType(link.PageHeaderFooter, PageHeaderFooter)
+        ph.Header.Content.Add("                                                                         " & xreportHeader)
+        ph.Header.Content.Add("")
+        'ph.Header.Content.Add(getTanggal.ToShortDateString)
+        ph.Header.LineAlignment = BrickAlignment.Near
+        'ph.Footer.Cont
+        'ph.Footer.Content.Add("Dibuat Oleh")
+        'ph.Footer.Content.Add("          ")
+        'ph.Footer.Content.Add("(          )")
+        ph.Footer.Content.Add("Lembar : [Page # of Pages #]")
+        ph.Header.Font = New Font("Tahoma", 10, FontStyle.Bold)
+
+        link.Component = xGc
+        link.Margins.Left = 4
+        link.Margins.Right = 4
+        link.Margins.Bottom = 40
+        link.Margins.Top = 105
+        link.PaperKind = System.Drawing.Printing.PaperKind.A4
+        link.Landscape = True
+        link.CreateDocument()
+        link.ShowPreview()
+
+    End Sub
+
+    Private Sub PrintableComponentLink1_CreateReportFooterArea(ByVal sender As Object, ByVal e As DevExpress.XtraPrinting.CreateAreaEventArgs) Handles PrintableComponentLink1.CreateReportFooterArea
+        e.Graph.StringFormat = New BrickStringFormat(StringAlignment.Center)
+        e.Graph.Font = New Font("Arial", 10, FontStyle.Regular)
+        e.Graph.BackColor = Color.White
+        Dim reportLokasiTgl As String = "Surabaya, " & Date.Today.ToString("dd MMMM yyyy", New CultureInfo("id-ID"))
+        Dim reportFooter1 As String = "Pembuat,"
+        Dim reportFooter3 As String = "(  " & namauser & "  )"
+        Dim reportFooter4 As String = "Mengetahui,"
+        Dim reportFooter6 As String = "(_______________________)"
+        Dim reportFooter7 As String = "Total Bunga"
+        Dim reportFooter8 As String = "Total Pokok"
+        Dim reportFooter11 As String = "Total Debet"
+        Dim reportFooter9 As String = GV_RLSKRD.Columns("JML_BUNGA").SummaryText
+        Dim reportFooter10 As String = GV_RLSKRD.Columns("JML_POKOK").SummaryText
+        Dim reportFooter12 As String = GV_RLSKRD.Columns("JML_PINJAMAN").SummaryText
+        Dim reportFooter13 As String = ":"
+
+        Dim objsender As Link = sender
+
+        Dim reportSaldo As String
+        If objsender.PaperName <> "" Then
+            Dim idr As CultureInfo = New CultureInfo("id-ID")
+            'reportSaldo = "Saldo Akhir : " + "Rp." + objsender.PaperName.ToString(idr.InvariantCulture)
+            reportSaldo = "Saldo Akhir : " + " " + Convert.ToDecimal(objsender.PaperName).ToString("c", New Globalization.CultureInfo("id-ID", False))
+        Else
+            reportSaldo = ""
+        End If
+
+        Dim recLok As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 4) - 250, 70, 500, 20)
+        Dim rec1 As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 4) - 150, 100, 300, 20)
+        Dim rec3 As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 4) - 150, 150, 300, 20)
+        Dim rec4 As RectangleF = New RectangleF(((e.Graph.ClientPageSize.Width / 4) * 3) - 150, 100, 300, 20)
+        Dim rec6 As RectangleF = New RectangleF(((e.Graph.ClientPageSize.Width / 4) * 3) - 150, 150, 300, 20)
+        Dim rec7 As RectangleF = New RectangleF(25, 10, CSng(e.Graph.MeasureString(reportFooter7).Width), 20)
+        Dim rec8 As RectangleF = New RectangleF(25, 30, CSng(e.Graph.MeasureString(reportFooter8).Width), 20)
+        Dim rec11 As RectangleF = New RectangleF(25, 50, CSng(e.Graph.MeasureString(reportFooter11).Width), 20)
+        Dim rec9 As RectangleF = New RectangleF(125 - (CSng(e.Graph.MeasureString(reportFooter9).Width) - 160), 10, CSng(e.Graph.MeasureString(reportFooter9).Width) + 10, 20)
+        Dim rec10 As RectangleF = New RectangleF(125 - (CSng(e.Graph.MeasureString(reportFooter10).Width) - 160), 30, CSng(e.Graph.MeasureString(reportFooter10).Width) + 10, 20)
+        Dim rec12 As RectangleF = New RectangleF(125 - (CSng(e.Graph.MeasureString(reportFooter12).Width) - 160), 50, CSng(e.Graph.MeasureString(reportFooter12).Width) + 10, 20)
+        Dim rec13 As RectangleF = New RectangleF(155, 10, 10, 20)
+        Dim rec14 As RectangleF = New RectangleF(155, 30, 10, 20)
+        Dim rec15 As RectangleF = New RectangleF(155, 50, 10, 20)
+
+        Dim recSaldo As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 2) - 100, 20, 500, 20)
+
+        e.Graph.DrawString(reportLokasiTgl, Color.Black, recLok, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter1, Color.Black, rec1, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter3, Color.Black, rec3, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter4, Color.Black, rec4, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter6, Color.Black, rec6, DevExpress.XtraPrinting.BorderSide.None)
+
+        e.Graph.DrawString(reportSaldo, Color.Black, recSaldo, DevExpress.XtraPrinting.BorderSide.None)
+
+        'e.Graph.DrawString(reportFooter7, Color.Black, rec7, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter8, Color.Black, rec8, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter11, Color.Black, rec11, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter9, Color.Black, rec9, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter10, Color.Black, rec10, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter12, Color.Black, rec12, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter13, Color.Black, rec13, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter13, Color.Black, rec14, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter13, Color.Black, rec15, DevExpress.XtraPrinting.BorderSide.None)
+    End Sub
+    Private Sub PrintableComponentLink1_CreateReportHeaderArea(ByVal sender As System.Object, ByVal e As DevExpress.XtraPrinting.CreateAreaEventArgs) Handles PrintableComponentLink1.CreateReportHeaderArea
+        'Dim reportHeader As String = "LAPORAN PEMBAYARAN BUNGA DEPOSITO"
+        'Dim reportHeader1 As String = "Per Tanggal "
+        If tglDari.EditValue = tglsampai.EditValue Then
+            subReport = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString
+        Else
+            subReport = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString & " s/d " & Format(tglsampai.EditValue, "d MMMM yyyy").ToString
+        End If
+
+        e.Graph.StringFormat = New BrickStringFormat(StringAlignment.Center)
+        e.Graph.Font = New Font("Times New Roman", 12, FontStyle.Bold)
+        e.Graph.BackColor = Color.White
+        'e.Graph.DrawImage(Presentation.My.Resources.LOGO_MSBCA1, New RectangleF(0, 25, e.Graph.ClientPageSize.Width, 20), BorderSide.None, Color.Azure)
+        Dim rec As RectangleF = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 20)
+        Dim rec2 As RectangleF = New RectangleF(0, 20, e.Graph.ClientPageSize.Width, 50)
+        'Dim rec3 As RectangleF = New RectangleF(0, 70, CSng(e.Graph.MeasureString(reportHeader1).Width) + 10, 20)
+        'e.Graph.DrawString(reportHeader, Color.Black, rec, BorderSide.None)
+        e.Graph.DrawString(subReport, Color.Black, rec2, BorderSide.None)
+        'e.Graph.DrawString(reportHeader1, Color.Black, rec3, BorderSide.None)
+    End Sub
+
+    Public Sub cancel_click()
+        LoadStruktur()
+
+        btnSave = False
+        btnCancel = False
+        btnDelete = False
+        btnEdit = False
+        btnadd = True
+        setStatus()
+        Me.Enabled = False
+        'bersihkan()
+    End Sub
+    Private Sub isinomer()
+        Dim i As Int16 = 1
+        For Each row As DataRow In dSO.Tables("_krd").Rows
+            row.Item("nomer") = i : i += 1
+        Next
+    End Sub
+
+    Public Sub delete_click()
+        If MsgBox("Hapus Data ENTRY-an? Data entryan akan di batalkan dan di hapus?? ", MsgBoxStyle.Exclamation + MsgBoxStyle.YesNo, "Hapus Data?") = MsgBoxResult.Yes Then
+            STATE = "DELETE"
+            If Not dSO.Tables("_krd") Is Nothing Then
+                For Each rw As DataRow In dSO.Tables("_krd").Select("gc_hapus='Y'")
+                    rw.Delete()
+                Next
+            End If
+            'If Not dSO1.Tables("_qc") Is Nothing Then
+            '    For Each rw As DataRow In dSO1.Tables("_qc").Rows
+            '        rw.Delete()
+            '    Next
+            'End If
+
+            save_click(True)
+            cancel_click()
+            STATE = ""
+        End If
+    End Sub
+
+    Private Function blthn(Optional ByVal btrans As Object = Nothing) As String
+        Dim hasil As String
+        Dim sqlblth As SqlDataReader
+        If btrans Is Nothing Then
+            'blthn=082011
+            'sqlblth = New SqlCommand("select replace(substring(convert(varchar,getdate(),105),4,7),'-','') as blthn", sqlconn).ExecuteReader
+            '##blthn=201108
+            sqlblth = New SqlCommand("select SUBSTRING(CONVERT(varchar,GETDATE(),112),1,6)as blthn", sqlconn).ExecuteReader
+        Else
+            'sqlblth = New SqlCommand("select replace(substring(convert(varchar,getdate(),105),4,7),'-','') as blthn", sqlconn, btrans).ExecuteReader
+            sqlblth = New SqlCommand("select SUBSTRING(CONVERT(varchar,GETDATE(),112),1,6) as blthn", sqlconn, btrans).ExecuteReader
+        End If
+        sqlblth.Read()
+        hasil = sqlblth.Item(0)
+        'End If
+        sqlblth.Close()
+        Return hasil
+    End Function
+
+    Public Sub LoadStruktur()
+
+
+        Dim sqltgl As String = ""
+        'If tglDari.EditValue = vbNullString And tglsampai.EditValue = vbNullString And lookupBulanAwal.EditValue = vbNullString Then
+        '    sqltgl = "1=0"
+        If tglDari.EditValue <> vbNullString And tglsampai.EditValue = vbNullString Then
+            sqltgl = " tgl_trans > convert(date,'" & tglDari.Text & "',103)"
+        ElseIf tglDari.EditValue = vbNullString And tglsampai.EditValue <> vbNullString Then
+            sqltgl = " tgl_trans < convert(date,'" & tglsampai.Text & "',103)"
+        ElseIf tglDari.EditValue = vbNullString And tglsampai.EditValue = vbNullString Then
+            sqltgl = "tgl_trans = null"
+            MsgBox("Tanggal belum diisi")
+        ElseIf tglDari.EditValue <> vbNullString And tglsampai.EditValue <> vbNullString Then
+            sqltgl = " tgl_trans between convert(date,'" & tglDari.Text & "',103) and convert(date,'" & tglsampai.Text & "',103)"
+
+            'OFF karena ga pake bulan tahun
+            'ElseIf tglDari.EditValue <> vbNullString And tglsampai.EditValue <> vbNullString And lookupBulanAwal.EditValue <> vbNullString Then
+            '    sqltgl = sqltgl & "and blthn='" & lookupBulanAwal.EditValue & "'"
+            'Else      '  LookupBlthn.EditValue <> vbNullString Then
+            '    sqltgl = "blthn='" & lookupBulanAwal.EditValue & "'"
+        End If
+
+        dSO.Relations.Clear()
+        'If Not dSO.Tables("_dtl") Is Nothing Then dSO.Tables("_dtl").Clear()
+        If Not dSO.Tables("_krd") Is Nothing Then dSO.Tables("_krd").Clear()
+
+        Dim sql_user As String = "select *,0 as nomer,'T' as gc_hapus, m_barang.nama as ppob, m_jns_barang.nama namabarang " & _
+            " from retail LEFT JOIN m_barang ON m_barang.kd_brg=retail.kd_brg  " & _
+            " LEFT JOIN m_jns_barang ON m_jns_barang.kd_jns=retail.kd_jns_brg  " & _
+            " WHERE Last_Created_By='" & username & "' and jns_bayar = 2 "
+        'Dim sql_adm As String = "select *,0 as nomer from retail where status_lunas='BELUM' and jenis='" & Lue_SetPjm.EditValue & "' "
+        If kddep = "2" Or kddep = "3" Then
+            DA = New SqlClient.SqlDataAdapter(New SqlClient.SqlCommand(sql_user & " and " & sqltgl, sqlconn))
+        Else
+            Label3.Visible = True
+            Lue_SetPjm.Visible = True
+            If Lue_SetPjm.EditValue = "all" Then
+                DA = New SqlClient.SqlDataAdapter(New SqlClient.SqlCommand("select *,0 as nomer,'T' as gc_hapus from retail where " & sqltgl & "   ORDER BY tgl_trans, last_create_date", sqlconn))
+            Else
+                DA = New SqlClient.SqlDataAdapter(New SqlClient.SqlCommand("select *,0 as nomer,'T' as gc_hapus from retail where jenis='" & Lue_SetPjm.EditValue & "' and " & sqltgl, sqlconn))
+            End If
+        End If
+
+        'Clipboard.SetText(sql & " where " & sqltgl)
+        DA.Fill(dSO, "_krd")
+
+        'If Not dSO.Tables("_krd") Is Nothing Then dSO.Tables("_krd").Clear()
+        'DA = New SqlClient.SqlDataAdapter(New SqlClient.SqlCommand("select *,0 as nomer from kredit", sqlconn))
+        'DA.Fill(dSO, "_krd")
+        'DA2 = New SqlClient.SqlDataAdapter(New SqlClient.SqlCommand("select * from kredit_tbh ", sqlconn))
+        'DA2.Fill(dSO, "_dtl")
+
+        If dSO.Tables("_krd").Rows.Count > 0 Then
+            'drl = dSO.Relations.Add("Detail", dSO.Tables("_krd").Columns("no_trans"), dSO.Tables("_dtl").Columns("no_trans"), False)
+            GcINV_Ret.DataSource = dSO.Tables("_krd")
+            'GcINV_Ret.LevelTree.Nodes.Add("Detail", gv_tbh_krd)
+        End If
+
+
+        'GcINV_Ret.DataSource = dSO.Tables("_krd")
+        isinomer()
+    End Sub
+    Public Sub save_click(Optional ByRef isDel As Boolean = False)
+        If Not isDel Then
+            If MsgBox("Perubahan Data akan disimpan dalam Database??", MsgBoxStyle.YesNo) = MsgBoxResult.Yes Then simpan(isDel)
+        Else
+            simpan(isDel)
+        End If
+    End Sub
+    Public Sub simpan(Optional ByRef isDelete As Boolean = False)
+        Dim BTRANS As SqlTransaction
+        'If STATE = "ADD" Then
+
+        'If STATE = "EDIT" Then
+        If Not isDelete Then
+
+
+            If STATE = "ADD" Then
+
+
+
+                row = dSO.Tables("_krd").Rows(0)
+                row.Item("Last_Update") = getTanggal()
+                row.Item("Last_Updated_By") = username
+            End If
+
+            'row.Item("form_by") = Me.Name
+            'ElseIf STATE = "CETAK" Then
+            '    row.Item("cetak_ke") = row.Item("cetak_ke") + 1
+            'End If
+
+            'row.Item("SALDO_AKHIR") = tx_saldo2.Text
+            'row.Item("JENIS_TABUNGAN") = LUE_jnsTab.EditValue
+            'row.Item("NO_TABUNGAN") = id_anggota + LUE_jnsTab.EditValue
+            'row.Item("TGL_REGISTRASI") = dtp_tgl.Text
+            'row.Item("SALDO_AWAL") = tx1_setoran.Text
+            'row.Item("SALDO_AKHIR") = tx1_setoran.Text
+            ''row.Item("JML_DENDA") = t_admin.Text
+            'row.Item("STATUS_AKTIF") = "PENGAJUAN"
+            'row.Item("jns_bayar") = cb_byr.Text
+            'row.Item("approve1_by") = "OutStanding"
+            'row.Item("stat_approve") = 0
+            'row.Item("stat_cair") = 0
+            'row.Item("KETERANGAN") = tx1_ket.Text
+
+            'dSO.Tables("_krd").Rows.Add(row)
+        End If
+        Try
+            Buildernya = New SqlClient.SqlCommandBuilder(DA)
+            DA.UpdateCommand = Buildernya.GetUpdateCommand()
+            DA.InsertCommand = Buildernya.GetInsertCommand()
+            DA.DeleteCommand = Buildernya.GetDeleteCommand()
+
+            'Buildernya = New SqlClient.SqlCommandBuilder(DA2)
+            'DA2.UpdateCommand = Buildernya.GetUpdateCommand()
+            'DA2.InsertCommand = Buildernya.GetInsertCommand()
+            'DA2.DeleteCommand = Buildernya.GetDeleteCommand()
+
+            BTRANS = sqlconn.BeginTransaction("1")
+            DA.UpdateCommand.Transaction = BTRANS
+            DA.InsertCommand.Transaction = BTRANS
+            DA.DeleteCommand.Transaction = BTRANS
+
+            'DA2.UpdateCommand.Transaction = BTRANS
+            'DA2.InsertCommand.Transaction = BTRANS
+            'DA2.DeleteCommand.Transaction = BTRANS
+
+            'Dim sqlcmd1 As New SqlCommand("update tabung set SALDO_AKHIR=@nilai where NO_TABUNGAN='" & tx_noTbg.Text & "'", sqlconn, BTRANS)
+            'sqlcmd1.Parameters.AddWithValue("@nilai", row1.Item("SALDO_AKHIR"))
+            'sqlcmd1.ExecuteNonQuery()
+            'For Each row As DataRow In dSO.Tables("_krd").Rows
+            '    If row.RowState = DataRowState.Modified Then
+            '        Dim sqlcmd1 As New SqlCommand("update KOPKAR.dbo.anggota set Nama='" & row.Item("nm") & "' where nasabah_id='" & row.Item("nasabah_id") & "'", sqlconn, BTRANS)
+            '        sqlcmd1.ExecuteNonQuery()
+            '    End If
+            'Next
+
+            DA.Update(dSO.Tables("_krd"))
+            'DA2.Update(dSO1.Tables("_krd"))
+
+            'STATE = "EDIT"
+            BTRANS.Commit()
+            showMessages("Berhasil disimpan")
+            btnSave = False
+            setStatus()
+            'cancel_click()
+        Catch e As Exception
+            BTRANS.Rollback()
+            dSO.Tables("_krd").RejectChanges() ' untuk membatalkan row yg diupdate/insert
+            MsgBox(e.Message, MsgBoxStyle.Critical, "Gagal Simpan")
+        End Try
+
+
+    End Sub
+
+    Private Sub frmMon_ritel_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        connect()
+        prn = getParent(Me)
+        'LoadStruktur()
+        Lue_SetPjm.Visible = False
+        Label3.Visible = False
+        tglDari.EditValue = Today
+        tglsampai.EditValue = Today
+        prn.btnAdd_Click(prn.btnAdd, New EventArgs)
+        DALOOKUP = New SqlDataAdapter(New SqlCommand("select nasabah_id,Nama from anggota", sqlconn))
+        DALOOKUP.Fill(ds_cari, "_lookup1")
+        RL_nama.DataSource = ds_cari.Tables("_lookup1")
+        RL_nama.ValueMember = "nasabah_id"
+        RL_nama.DisplayMember = "Nama"
+
+        DALOOKUP = New SqlDataAdapter(New SqlCommand("SELECT kode,Nama FROM m_jns_upload where tipe_trans='RTL' union ALL SELECT 'all' as kode,'SEMUA' as Nama", sqlconn))
+        DALOOKUP.Fill(ds_cari, "LookTran")
+        Lue_SetPjm.Properties.DataSource = ds_cari.Tables("LookTran")
+        Lue_SetPjm.Properties.DisplayMember = "Nama"
+        Lue_SetPjm.Properties.ValueMember = "kode"
+        Lue_SetPjm.EditValue = "all"
+
+        DALOOKUP1 = New SqlDataAdapter(New SqlCommand("select kd_status_agenda,keterangan from m_agenda", sqlconn))
+        DALOOKUP1.Fill(ds_cari1, "_lookup2")
+        RL_stat.DataSource = ds_cari1.Tables("_lookup2")
+        RL_stat.ValueMember = "kd_status_agenda"
+        RL_stat.DisplayMember = "keterangan"
+
+    End Sub
+
+    Private Sub cmdClear_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdClear.Click
+        'lookupBulanAwal.EditValue = vbNullString
+        tglDari.EditValue = vbNullString
+        tglsampai.EditValue = vbNullString
+        If Not dSO.Tables("_krd") Is Nothing Then dSO.Tables("_krd").Clear()
+    End Sub
+
+    Private Sub cmdRefresh_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdRefresh.Click
+        GV_RTLKEU.Columns("f_debet").DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric
+        GV_RTLKEU.Columns("f_debet").DisplayFormat.FormatString = "{0:#;;""""}"
+        GV_RTLKEU.Columns("f_transfer").DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric
+        GV_RTLKEU.Columns("f_transfer").DisplayFormat.FormatString = "{0:#;;""""}"
+        GV_RTLKEU.Columns("f_tunai").DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric
+        GV_RTLKEU.Columns("f_tunai").DisplayFormat.FormatString = "{##.#;;666}"
+        LoadStruktur()
+        isinomer()
+    End Sub
+
+    'Private Sub GV_RLSKRD_DoubleClick(ByVal sender As Object, ByVal e As System.EventArgs) Handles GV_RLSKRD.DoubleClick
+    '    If GV_RLSKRD.RowCount <> 0 Then
+    '        'MsgBox("ini gv")
+    '        'MsgBox("ini gv")
+    '        pilih = GV_RLSKRD.GetRow(GV_RLSKRD.GetSelectedRows(0)).Item("no_trans").ToString()
+    '        kd_krd = GV_RLSKRD.GetRow(GV_RLSKRD.GetSelectedRows(0)).Item("kd_kredit").ToString()
+    '        'MsgBox(pilih & " dan " & kd_krd)
+    '        'If kd_krd = "KRD" Then
+    '        frm_ritel1.STATE = "EDIT"
+    '        frm_ritel1._notrans = pilih
+    '        frm_ritel1.ShowDialog()
+    '        'ElseIf kd_krd = "CUS" Then
+    '        '    frmKreditCustom.STATE = "EDIT"
+    '        '    frmKreditCustom._notrans = pilih
+    '        '    frmKreditCustom.ShowDialog()
+    '        'ElseIf kd_krd = "MTS" Then
+    '        '    frmKreditMTS.STATE = "EDIT"
+    '        '    frmKreditMTS._notrans = pilih
+    '        '    frmKreditMTS.ShowDialog()
+    '        'ElseIf kd_krd = "REC" Then
+    '        '    frmKreditREC.STATE = "EDIT"
+    '        '    frmKreditREC._notrans = pilih
+    '        '    frmKreditREC.ShowDialog()
+    '        'End If
+
+
+    '    End If
+    'End Sub
+
+    Private Sub btnprin_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        cetak_click()
+    End Sub
+
+    Private Sub GV_RLSKRD_CellValueChanged(ByVal sender As Object, ByVal e As DevExpress.XtraGrid.Views.Base.CellValueChangedEventArgs) Handles GV_RLSKRD.CellValueChanged
+        If e.Column Is gc_rptot Then
+            'If GV_RLSKRD.GetRow(e.RowHandle).item("sisa_pokok") < GV_RLSKRD.GetRow(e.RowHandle).item("nilai") Then
+            '    MsgBox("Tidak Boleh kosong")
+            'End If
+            GV_RLSKRD.GetRow(e.RowHandle).item("gc_rptot") = GV_RLSKRD.GetRow(e.RowHandle).item("JML_POKOK") + GV_RLSKRD.GetRow(e.RowHandle).item("JML_BUNGA")
+
+        End If
+        If e.Column Is JML_PINJAMAN Then
+            GV_RLSKRD.GetRow(e.RowHandle).item("JML_POKOK") = GV_RLSKRD.GetRow(e.RowHandle).item("JML_PINJAMAN")
+        End If
+        If e.Column Is JML_POKOK Then
+            GV_RLSKRD.GetRow(e.RowHandle).item("JML_PINJAMAN") = GV_RLSKRD.GetRow(e.RowHandle).item("JML_POKOK")
+        End If
+    End Sub
+    Public Sub cetak_retail()
+
+        GcINV_Ret.Refresh()
+        GV_RLSKRD.OptionsPrint.UsePrintStyles = True
+        GV_RLSKRD.Columns("gc_hapus").Visible = False
+
+        Dim phf As PageHeaderFooter = TryCast(PrintableComponentLink1.PageHeaderFooter, PageHeaderFooter)
+        Dim leftColumn As String = phf.Header.Content.Item(0)
+        Dim middleColumn As String
+        If kddep = 2 Then
+            middleColumn = "Laporan OMI"
+        ElseIf kddep = 3 Then
+            middleColumn = "Laporan Retail"
+        Else
+            middleColumn = "Laporan Retail dan OMI"
+        End If
+
+
+        phf.Header.Content.Clear()
+        phf.Header.Content.AddRange(New String() {leftColumn, middleColumn})
+        PrintableComponentLink1.CreateDocument()
+        PrintableComponentLink1.ShowPreview()
+
+        GV_RLSKRD.Columns("gc_hapus").Visible = True
+    End Sub
+    Private Sub pcLink_CreateReportFooterArea(ByVal sender As Object, ByVal e As DevExpress.XtraPrinting.CreateAreaEventArgs)
+        e.Graph.StringFormat = New BrickStringFormat(StringAlignment.Center)
+        e.Graph.Font = New Font("Arial", 10, FontStyle.Regular)
+        e.Graph.BackColor = Color.White
+        Dim reportLokasiTgl As String = "Surabaya, " & Date.Today.ToString("dd MMMM yyyy", New CultureInfo("id-ID"))
+        Dim reportFooter1 As String = "Pembuat,"
+        Dim reportFooter3 As String = "(  " & namauser & "  )"
+        Dim reportFooter4 As String = "Mengetahui,"
+        Dim reportFooter6 As String = "(_______________________)"
+        Dim reportFooter7 As String = "Total Bunga"
+        Dim reportFooter8 As String = "Total Pokok"
+        Dim reportFooter11 As String = "Total Debet"
+        Dim reportFooter9 As String = GV_RLSKRD.Columns("JML_BUNGA").SummaryText
+        Dim reportFooter10 As String = GV_RLSKRD.Columns("JML_POKOK").SummaryText
+        Dim reportFooter12 As String = GV_RLSKRD.Columns("JML_PINJAMAN").SummaryText
+        Dim reportFooter13 As String = ":"
+        Dim recLok As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 4) - 250, 70, 500, 20)
+        Dim rec1 As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 4) - 150, 100, 300, 20)
+        Dim rec3 As RectangleF = New RectangleF((e.Graph.ClientPageSize.Width / 4) - 150, 150, 300, 20)
+        Dim rec4 As RectangleF = New RectangleF(((e.Graph.ClientPageSize.Width / 4) * 3) - 150, 100, 300, 20)
+        Dim rec6 As RectangleF = New RectangleF(((e.Graph.ClientPageSize.Width / 4) * 3) - 150, 150, 300, 20)
+        Dim rec7 As RectangleF = New RectangleF(25, 10, CSng(e.Graph.MeasureString(reportFooter7).Width), 20)
+        Dim rec8 As RectangleF = New RectangleF(25, 30, CSng(e.Graph.MeasureString(reportFooter8).Width), 20)
+        Dim rec11 As RectangleF = New RectangleF(25, 50, CSng(e.Graph.MeasureString(reportFooter11).Width), 20)
+        Dim rec9 As RectangleF = New RectangleF(125 - (CSng(e.Graph.MeasureString(reportFooter9).Width) - 160), 10, CSng(e.Graph.MeasureString(reportFooter9).Width) + 10, 20)
+        Dim rec10 As RectangleF = New RectangleF(125 - (CSng(e.Graph.MeasureString(reportFooter10).Width) - 160), 30, CSng(e.Graph.MeasureString(reportFooter10).Width) + 10, 20)
+        Dim rec12 As RectangleF = New RectangleF(125 - (CSng(e.Graph.MeasureString(reportFooter12).Width) - 160), 50, CSng(e.Graph.MeasureString(reportFooter12).Width) + 10, 20)
+        Dim rec13 As RectangleF = New RectangleF(155, 10, 10, 20)
+        Dim rec14 As RectangleF = New RectangleF(155, 30, 10, 20)
+        Dim rec15 As RectangleF = New RectangleF(155, 50, 10, 20)
+        e.Graph.DrawString(reportLokasiTgl, Color.Black, recLok, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter1, Color.Black, rec1, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter3, Color.Black, rec3, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter4, Color.Black, rec4, DevExpress.XtraPrinting.BorderSide.None)
+        e.Graph.DrawString(reportFooter6, Color.Black, rec6, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter7, Color.Black, rec7, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter8, Color.Black, rec8, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter11, Color.Black, rec11, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter9, Color.Black, rec9, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter10, Color.Black, rec10, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter12, Color.Black, rec12, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter13, Color.Black, rec13, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter13, Color.Black, rec14, DevExpress.XtraPrinting.BorderSide.None)
+        'e.Graph.DrawString(reportFooter13, Color.Black, rec15, DevExpress.XtraPrinting.BorderSide.None)
+    End Sub
+    Private Sub linkPageBreak_CreateDetailArea(ByVal sender As Object, _
+    ByVal e As CreateAreaEventArgs)
+        e.Graph.PrintingSystem.InsertPageBreak(0)
+    End Sub
+
+    Private Sub composLink_CreateMarginalHeaderArea(ByVal sender As Object, _
+ByVal e As CreateAreaEventArgs)
+        e.Graph.DrawPageInfo(PageInfo.DateTime, "{0:hhhh:mmmm:ssss}", _
+            Color.Black, New RectangleF(0, 0, 200, 50), BorderSide.None)
+    End Sub
+
+    ' Creates a text header for the first grid.
+    Private Sub linkGrid1Report_CreateDetailArea(ByVal sender As Object, _
+    ByVal e As CreateAreaEventArgs)
+        Dim tb As TextBrick = New TextBrick()
+        Dim reportTitleNon As String = ""
+        Dim reportTitleSupp As String = "Laporan Supplier"
+        Dim reportPeriode As String
+        If kddep = 2 Then
+            reportTitleNon = "Laporan OMI"
+            reportTitleSupp = "Laporan OMI Supplier"
+        ElseIf kddep = 3 Then
+            reportTitleNon = "Laporan Retail"
+            reportTitleSupp = "Laporan Retail Supplier"
+        Else
+            reportTitleNon = "Laporan Retail dan OMI"
+            reportTitleNon = "Laporan Retail dan OMI Supplier"
+        End If
+        If tglDari.EditValue = tglsampai.EditValue Then
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString
+        Else
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString & " s/d " & Format(tglsampai.EditValue, "d MMMM yyyy").ToString
+        End If
+        tb.Text = reportTitleNon + " " + reportPeriode
+        tb.Font = New Font("Arial", 13)
+        tb.Rect = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 50)
+        tb.BorderWidth = 0
+        tb.BackColor = Color.Transparent
+        tb.HorzAlignment = DevExpress.Utils.HorzAlignment.Near
+
+        e.Graph.DrawBrick(tb)
+    End Sub
+
+    ' Creates an interval between the grids and fills it with color.
+    Private Sub linkMainReport_CreateDetailArea(ByVal sender As Object, _
+    ByVal e As CreateAreaEventArgs)
+        Dim tb As TextBrick = New TextBrick()
+        tb.Rect = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 50)
+        tb.BackColor = Color.Gray
+        e.Graph.DrawBrick(tb)
+    End Sub
+
+    ' Creates a text header for the second grid.
+    Private Sub linkGrid2Report_CreateDetailArea(ByVal sender As Object, _
+    ByVal e As CreateAreaEventArgs)
+        Dim tb As TextBrick = New TextBrick()
+        Dim reportTitleNon As String = ""
+        Dim reportTitleSupp As String = "Laporan Supplier"
+        Dim reportPeriode As String
+        If kddep = 2 Then
+            reportTitleNon = "Laporan OMI"
+            reportTitleSupp = "Laporan OMI Supplier"
+        ElseIf kddep = 3 Then
+            reportTitleNon = "Laporan Retail"
+            reportTitleSupp = "Laporan Retail Supplier"
+        Else
+            reportTitleNon = "Laporan Retail dan OMI"
+            reportTitleNon = "Laporan Retail dan OMI Supplier"
+        End If
+        If tglDari.EditValue = tglsampai.EditValue Then
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString
+        Else
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString & " s/d " & Format(tglsampai.EditValue, "d MMMM yyyy").ToString
+        End If
+        tb.Text = reportTitleSupp + " " + reportPeriode
+        tb.Font = New Font("Arial", 13)
+        tb.Rect = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 50)
+        tb.BorderWidth = 0
+        tb.BackColor = Color.Transparent
+        tb.HorzAlignment = DevExpress.Utils.HorzAlignment.Near
+        e.Graph.DrawBrick(tb)
+    End Sub
+    Private Sub btnCetakDetail_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCetakDetail.Click
+        cetak_click()
+    End Sub
+    Private Sub cetak_sum_click()
+        Dim composLink As CompositeLink = New CompositeLink(New PrintingSystem())
+        composLink.PaperKind = Printing.PaperKind.Legal
+        composLink.Landscape = True
+        composLink.Margins.Top = 50
+        composLink.Margins.Right = 50
+        composLink.Margins.Bottom = 50
+        composLink.Margins.Left = 50
+
+
+        GV_RTLKEU.OptionsPrint.UsePrintStyles = True
+        Dim colTgl As GridColumn = GV_RTLKEU.Columns("tgl_trans")
+        GV_RTLKEU.ClearGrouping()
+        colTgl.GroupIndex = 1
+
+        Dim pcLink1 As PrintableComponentLink = New PrintableComponentLink()
+        Dim linkKeuReport As Link = New Link()
+        AddHandler linkKeuReport.CreateDetailArea, AddressOf linkKeuReport_CreateDetailArea
+        GcINV_Ret.MainView = GV_RTLKEU
+
+        pcLink1.Component = GcINV_Ret
+
+        composLink.Links.Add(linkKeuReport)
+        composLink.Links.Add(pcLink1)
+
+        composLink.ShowPreviewDialog()
+        GV_RTLKEU.ClearGrouping()
+        GcINV_Ret.MainView = GV_RLSKRD
+
+    End Sub
+    Private Sub linkKeuReport_CreateDetailArea(ByVal sender As Object, ByVal e As CreateAreaEventArgs)
+        Dim tb As TextBrick = New TextBrick()
+        Dim reportPeriode As String
+        If tglDari.EditValue = tglsampai.EditValue Then
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString
+        Else
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString & " s/d " & Format(tglsampai.EditValue, "d MMMM yyyy").ToString
+        End If
+        tb.Text = "Laporan Retail Keuangan" + " " + reportPeriode
+        tb.Font = New Font("Arial", 13)
+        tb.Rect = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 50)
+        tb.BorderWidth = 0
+        tb.BackColor = Color.Transparent
+        tb.HorzAlignment = DevExpress.Utils.HorzAlignment.Near
+        e.Graph.DrawBrick(tb)
+    End Sub
+    Private Sub cetak_rep_keuxx()
+        Dim composLink As CompositeLink = New CompositeLink(New PrintingSystem())
+        composLink.PaperKind = Printing.PaperKind.Legal
+        composLink.Landscape = True
+        composLink.Margins.Top = 50
+        composLink.Margins.Right = 50
+        composLink.Margins.Bottom = 50
+        composLink.Margins.Left = 50
+
+        Dim pclink As PrintableComponentLink = New PrintableComponentLink()
+        AddHandler pclink.CreateDetailArea, AddressOf pcLink_CreateDetailArea
+        Dim linkTitle As Link = New Link()
+        AddHandler linkTitle.CreateDetailArea, AddressOf linkTitle_CreateDetailArea
+        composLink.Links.Add(pclink)
+        composLink.ShowPreviewDialog()
+    End Sub
+    Private Sub pcLink_CreateDetailArea(ByVal sender As Object, ByVal e As CreateAreaEventArgs)
+        Dim tb As TextBrick = New TextBrick()
+        Dim reportTitle, reportPeriode As String
+        reportTitle = "Laporan Vendor"
+        If tglDari.EditValue = tglsampai.EditValue Then
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString
+        Else
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString & " s/d " & Format(tglsampai.EditValue, "d MMMM yyyy").ToString
+        End If
+        tb.Text = reportTitle + " " + reportPeriode
+        tb.Font = New Font("Arial", 13)
+        tb.Rect = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 50)
+        tb.BorderWidth = 0
+        tb.BackColor = Color.Transparent
+        tb.HorzAlignment = DevExpress.Utils.HorzAlignment.Near
+        e.Graph.DrawBrick(tb)
+    End Sub
+    Private Sub cetak_rep_keu()
+        Dim composLink As CompositeLink = New CompositeLink(New PrintingSystem())
+        composLink.PaperKind = Printing.PaperKind.Legal
+        composLink.Landscape = True
+        composLink.Margins.Top = 50
+        composLink.Margins.Right = 50
+        composLink.Margins.Bottom = 50
+        composLink.Margins.Left = 50
+
+        Dim DAPPOB As SqlDataAdapter
+        Dim DSPPOB As New DataSet
+
+        DAPPOB = New SqlClient.SqlDataAdapter(New SqlClient.SqlCommand("select * FROM m_barang", sqlconn))
+        DAPPOB.Fill(DSPPOB, "vendor")
+        Dim rowcnt As Int16 = DSPPOB.Tables("vendor").Rows.Count()
+
+        Dim linkPageBreak As Link = New Link()
+        AddHandler linkPageBreak.CreateDetailArea, AddressOf linkPageBreak_CreateDetailArea
+
+        For Each row As DataRow In DSPPOB.Tables("vendor").Rows
+            Dim linkTitle As Link = New Link()
+            linkTitle.PaperName = row.Item("nama").ToString()
+            AddHandler linkTitle.CreateDetailArea, AddressOf linkTitle_CreateDetailArea
+
+            Dim linkFooter As Link = New Link()
+            linkFooter.PaperName = row.Item("rp_akhir").ToString()
+            AddHandler linkFooter.CreateDetailArea, AddressOf PrintableComponentLink1_CreateReportFooterArea
+
+            Dim pclink As PrintableComponentLink = New PrintableComponentLink()
+
+            GcINV_Ret.MainView = GV_RTLKEU
+            GV_RTLKEU.OptionsPrint.UsePrintStyles = True
+            Dim colTgl As GridColumn = GV_RTLKEU.Columns("tgl_trans")
+            GV_RTLKEU.ClearGrouping()
+            colTgl.GroupIndex = 1
+
+
+            Dim GcClone As DevExpress.XtraGrid.GridControl = New GridControl()
+            GcClone.MainView = New GridView(GcClone)
+            GcClone.MainView.Assign(GcINV_Ret.MainView, False)
+            GcClone.MainView.Name = "GV_RTLKEUClone"
+
+            GcClone.DataSource = GcINV_Ret.DataSource
+            Controls.Add(GcClone)
+            GcClone.Visible = False
+
+            Dim view As ColumnView = GcClone.Views(0)
+            Dim viewFilterNon As New ViewColumnFilterInfo(view.Columns("kd_brg"), New ColumnFilterInfo("[kd_brg] = '" + row.Item("kd_brg").ToString() + "'", ""))
+            view.ActiveFilter.Add(viewFilterNon)
+
+            pclink.Component = GcClone
+
+            composLink.Links.Add(linkTitle)
+            composLink.Links.Add(pclink)
+            composLink.Links.Add(linkFooter)
+            composLink.Links.Add(linkPageBreak)
+            Console.WriteLine("{0}", row.Item("nama"))
+            'view.ActiveFilter.Clear()
+        Next
+
+        composLink.ShowPreviewDialog()
+        GcINV_Ret.MainView = GV_RLSKRD
+    End Sub
+    Private Sub linkTitle_CreateDetailArea(ByVal sender As Object, ByVal e As CreateAreaEventArgs)
+        Dim tb As TextBrick = New TextBrick()
+        Dim reportTitle, reportPeriode As String
+        Dim objsender As Link = sender
+        reportTitle = objsender.PaperName ' "Laporan Vendor"
+        If tglDari.EditValue = tglsampai.EditValue Then
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString
+        Else
+            reportPeriode = "Per Tanggal " & Format(tglDari.EditValue, "d MMMM yyyy").ToString & " s/d " & Format(tglsampai.EditValue, "d MMMM yyyy").ToString
+        End If
+        tb.Text = reportTitle + " " + reportPeriode
+        tb.Font = New Font("Arial", 13)
+        tb.Rect = New RectangleF(0, 0, e.Graph.ClientPageSize.Width, 50)
+        tb.BorderWidth = 0
+        tb.BackColor = Color.Transparent
+        tb.HorzAlignment = DevExpress.Utils.HorzAlignment.Near
+        e.Graph.DrawBrick(tb)
+    End Sub
+    Private Sub btnCetakSum_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCetakSum.Click
+        cetak_rep_keu()
+    End Sub
+End Class

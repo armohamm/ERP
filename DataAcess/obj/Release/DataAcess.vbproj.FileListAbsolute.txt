@@ -1,0 +1,15 @@
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\bin\Release\DataAcess.dll
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\bin\Release\DataAcess.pdb
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\obj\Release\DataAcess.dll
+C:\Documents and Settings\roadster\My Documents\Visual Studio 2008\Projects\AmericanPillowGroup\DataAcess\obj\Release\DataAcess.pdb
+E:\Project\AmericanPillowGroup\DataAcess\bin\Release\DataAcess.dll
+E:\Project\AmericanPillowGroup\DataAcess\bin\Release\DataAcess.pdb
+E:\Project\AmericanPillowGroup\DataAcess\obj\Release\ResolveAssemblyReference.cache
+E:\Project\AmericanPillowGroup\DataAcess\obj\Release\DataAcess.dll
+E:\Project\AmericanPillowGroup\DataAcess\obj\Release\DataAcess.pdb
+D:\Projects\KOPKAR\DataAcess\bin\Release\DataAcess.dll
+D:\Projects\KOPKAR\DataAcess\bin\Release\DataAcess.pdb
+D:\Projects\KOPKAR\DataAcess\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\KOPKAR\DataAcess\obj\Release\DataAcess.dll
+D:\Projects\KOPKAR\DataAcess\obj\Release\DataAcess.pdb

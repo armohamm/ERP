@@ -1,0 +1,1498 @@
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     1
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PENDEBETAN YANG GAGAL    :
+ C A B A N G     : 8052420-1805252018
+ 5632.  00844341233                                             5,000.00  NO REK. TIDAK TERDAFTAR.    180116005
+ 5226.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+  862.  00210085688                                             7,000.00  NO REK. TIDAK TERDAFTAR.    952038005
+ 2584.  00180109501                                            10,000.00  NO REK. TIDAK TERDAFTAR.    950826005
+ 3309.  08290136131                                           345,585.00  NO REK. TIDAK TERDAFTAR.    006080008
+ 3308.  08290136131                                           360,000.00  NO REK. TIDAK TERDAFTAR.    006080008
+ 3310.  08290136131                                           360,000.00  NO REK. TIDAK TERDAFTAR.    006080008
+ 1369.  00100287650                                            65,000.00  NO REK. TIDAK TERDAFTAR.    921578U015
+ 5906.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5877.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5879.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 3361.  08290244260                                         1,193,350.00  NO REK. TIDAK TERDAFTAR.    006080008
+ 5876.  00881130318                                         1,193,340.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 8789.  02581223554                                           170,000.00  NO REK. TIDAK TERDAFTAR.    976956U015
+ 5218.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5221.  01800335333                                           112,065.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 1370.  00100287650                                           638,235.00  NO REK. TIDAK TERDAFTAR.    921578U012
+ 5227.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5231.  01800363639                                            94,390.00  NO REK. TIDAK TERDAFTAR.    981316008
+ 5230.  01800363639                                           454,675.00  NO REK. TIDAK TERDAFTAR.    981316008
+ 5232.  01800363639                                           144,950.00  NO REK. TIDAK TERDAFTAR.    981316008
+ 5228.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5223.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5219.  01800335333                                           195,000.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5222.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5225.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5224.  01800335333                                            61,168.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5220.  01800335333                                           195,000.00  NO REK. TIDAK TERDAFTAR.    822021008
+ 5880.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5878.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5884.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5891.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5889.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5904.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5887.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5886.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5885.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5883.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5905.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5882.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 6565.  01020952225                                            10,000.00  NO REK. TIDAK TERDAFTAR.    055819005
+ 5881.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     2
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1368.  00100287650                                           638,235.00  NO REK. TIDAK TERDAFTAR.    921578U012
+ 5890.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5888.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5899.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5892.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5903.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5893.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5901.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5900.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5902.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5898.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5896.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5895.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5894.  00881130318                                           119,334.00  NO REK. TIDAK TERDAFTAR.    903855008
+ 5897.  00881130318                                           360,000.00  NO REK. TIDAK TERDAFTAR.    903855008
+ C A B A N G     : 0000001-KCU ASEMKA
+  439.  00011588939   ENDANG SUKANDI                        7,666,720.00  SALDO TIDAK CUKUP           843056999T
+  437.  00011588939   ENDANG SUKANDI                           50,000.00  SALDO TIDAK CUKUP           843056999I
+ C A B A N G     : 0000006-KCU SCBD
+ 1060.  00060120781   AYU SUZANA                               50,000.00  SALDO TIDAK CUKUP           921147999I
+ 1062.  00060120781   AYU SUZANA                            1,193,400.00  SALDO TIDAK CUKUP           921147999T
+ C A B A N G     : 0000008-KCU BANDUNG
+  874.  00088337070   AIRUL SALEH                              15,000.00  SALDO TIDAK CUKUP           904485005
+ C A B A N G     : 0000009-KCU SEMARANG
+ 1009.  00091429348   SUGIYANTO                             3,323,100.00  SALDO TIDAK CUKUP           930284999T
+  958.  00091048654   NANNY KRISTIANI HONGGO                  100,000.00  SALDO TIDAK CUKUP           885127999I
+ C A B A N G     : 0000010-KCU VETERAN
+ 2017.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2018.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2019.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2020.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2026.  00101710644   OEKIK DHIAN DAMAJANTI RR                100,000.00  SALDO TIDAK CUKUP           898830
+ 2027.  00101710644   OEKIK DHIAN DAMAJANTI RR                 37,000.00  SALDO TIDAK CUKUP           898830U005
+ 2028.  00101710644   OEKIK DHIAN DAMAJANTI RR              2,500,001.00  SALDO TIDAK CUKUP           898830LNRM
+ 2029.  00101710644   OEKIK DHIAN DAMAJANTI RR              2,499,999.00  SALDO TIDAK CUKUP           898830LNRM
+ 2030.  00101710644   OEKIK DHIAN DAMAJANTI RR                 82,200.00  SALDO TIDAK CUKUP           898830U005
+ 1765.  00101521001   MARZUKI                               1,000,000.00  SALDO TIDAK CUKUP           897091PTHR
+ 1766.  00101521001   MARZUKI                                 517,500.00  SALDO TIDAK CUKUP           897091LNRM
+ 1767.  00101521001   MARZUKI                               1,000,000.00  SALDO TIDAK CUKUP           897091PTHR
+ 1776.  00101604411   SOEBANDI                              1,037,900.00  SALDO TIDAK CUKUP           912025TUND
+ 1782.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667
+ 1783.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1784.  00101636975   EDY ERYANTO                           1,000,000.00  SALDO TIDAK CUKUP           010667LNRM
+ 1785.  00101636975   EDY ERYANTO                             337,800.00  SALDO TIDAK CUKUP           010667LNRM
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     3
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1786.  00101636975   EDY ERYANTO                           1,000,000.00  SALDO TIDAK CUKUP           010667LNRM
+ 1787.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1788.  00101636975   EDY ERYANTO                             298,120.00  SALDO TIDAK CUKUP           010667BRG
+ 1789.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1790.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1791.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1792.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1793.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1794.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1795.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1796.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1797.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1798.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1799.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1800.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1801.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1802.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1803.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1804.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1805.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1806.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1891.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1933.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1934.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1935.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1936.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1937.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1938.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1939.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1940.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1941.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1942.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1943.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1944.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1945.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1946.  00101636975   EDY ERYANTO                              97,500.00  SALDO TIDAK CUKUP           010667U006
+ 1947.  00101636975   EDY ERYANTO                              86,448.00  SALDO TIDAK CUKUP           010667U015
+ 1948.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1949.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1950.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1951.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1952.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1953.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1954.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     4
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1955.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1956.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1957.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1958.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1959.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1960.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1961.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1962.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1963.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1964.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1965.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1966.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1967.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1968.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1969.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1970.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1971.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1972.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1973.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1974.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1892.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1975.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1976.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1977.  00101636975   EDY ERYANTO                             666,601.00  SALDO TIDAK CUKUP           010667U012
+ 1978.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1979.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1980.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1981.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1982.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1983.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1984.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1985.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1986.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1987.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1988.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1989.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1990.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1991.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1992.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1993.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1994.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1995.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1996.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1997.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     5
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1998.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1999.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2000.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2001.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2002.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2003.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2004.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2005.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2006.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2007.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2008.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2009.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2010.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2011.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2012.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 2013.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2014.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2015.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 2016.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1893.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1894.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1895.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1896.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1897.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1898.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1899.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1900.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1901.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1902.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1903.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1904.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1905.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1906.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1907.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1908.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1909.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1910.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1911.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1912.  00101636975   EDY ERYANTO                              29,812.00  SALDO TIDAK CUKUP           010667U007
+ 1913.  00101636975   EDY ERYANTO                              29,812.00  SALDO TIDAK CUKUP           010667U007
+ 1914.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1915.  00101636975   EDY ERYANTO                             670,543.00  SALDO TIDAK CUKUP           010667U012
+ 1916.  00101636975   EDY ERYANTO                              23,280.00  SALDO TIDAK CUKUP           010667U006
+ 1917.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     6
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1918.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1919.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1920.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1921.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1922.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1923.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1924.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1925.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1926.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1927.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1928.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1929.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1930.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1931.  00101636975   EDY ERYANTO                              90,000.00  SALDO TIDAK CUKUP           010667U006
+ 1932.  00101636975   EDY ERYANTO                              66,660.00  SALDO TIDAK CUKUP           010667U006
+ 1849.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1850.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1851.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1852.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1853.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1854.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1855.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1856.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1857.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1858.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1859.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1860.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1861.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1862.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1863.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1864.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1865.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1866.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1867.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1868.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1869.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1870.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1871.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1872.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1873.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1874.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1875.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1876.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1877.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     7
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1878.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1879.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1880.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1881.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1882.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1883.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1884.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1885.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1886.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1887.  00101636975   EDY ERYANTO                              60,000.00  SALDO TIDAK CUKUP           010667U012
+ 1888.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1889.  00101636975   EDY ERYANTO                             100,000.00  SALDO TIDAK CUKUP           010667U015
+ 1890.  00101636975   EDY ERYANTO                              33,780.00  SALDO TIDAK CUKUP           010667U015
+ 1807.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1808.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1809.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1810.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1811.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1812.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1813.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1814.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1815.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1816.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1817.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1818.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1819.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1820.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1821.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1822.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1823.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1824.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1825.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1826.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1827.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1828.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1829.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1830.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1831.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1832.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1833.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1834.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1835.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1836.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1837.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     8
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1838.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1839.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1840.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1841.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1842.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1843.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1844.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1845.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1846.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1847.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1848.  00101636975   EDY ERYANTO                              25,000.00  SALDO TIDAK CUKUP           010667PTHR
+ 1686.  00101315125   J ANDRIJATY HARIYONO                    100,000.00  SALDO TIDAK CUKUP           903796
+ 1565.  00101138738   MURDIANTO                             6,000,000.00  SALDO TIDAK CUKUP           896947U002
+ 2073.  00101805025   CHYNTIA WIJAYA                          100,000.00  SALDO TIDAK CUKUP           056022
+ 1428.  00100505304   MOCHAMAD SOLEH                           10,000.00  SALDO TIDAK CUKUP           920893004
+ 2168.  00106010972   IRIANTI SRI ASTUTI                    2,103,000.00  SALDO TIDAK CUKUP           897725LNRM
+ 2170.  00106010972   IRIANTI SRI ASTUTI                    1,250,000.00  SALDO TIDAK CUKUP           897725PTHR
+ C A B A N G     : 0000011-KCU MALANG
+ 1404.  00110478411   HADI KUNCORO                          2,658,480.00  SALDO TIDAK CUKUP           904054999T
+ 1305.  00110464461   ARDYE AMRAN                           1,194,500.00  SALDO TIDAK CUKUP           941170TUND
+ C A B A N G     : 0000012-KCU GAJAH MADA
+ 2269.  00120073478   ANDI SETYO WIBOWO                     1,949,475.00  POST IND. : X               912484999T
+ 2268.  00120073478   ANDI SETYO WIBOWO                        50,000.00  POST IND. : X               912484999I
+ C A B A N G     : 0000014-KCP TUNJUNGAN
+ 2473.  00140299014   ACHMAD APRIANTO                          10,000.00  TUTUP REKENING.             300125003
+ C A B A N G     : 0000015-KCU SOLO SLAMET RIYADI
+ 2497.  00150419689   VITRI ARIYANI BUDIARTI                  100,000.00  SALDO TIDAK CUKUP           975850999I
+ C A B A N G     : 0000018-KCU SIDOARJO
+ 2812.  00181195745   HANDOKO                               1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2869.  00182586003   HANDOKO SH                            1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2796.  00181195664   ACHMAD SUHADI                           800,000.00  SALDO TIDAK CUKUP           902793LNRM
+ 2821.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2799.  00181195664   ACHMAD SUHADI                         7,500,000.00  SALDO TIDAK CUKUP           902793U002
+ 2862.  00182586003   HANDOKO SH                              200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2864.  00182586003   HANDOKO SH                              200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2814.  00181195745   HANDOKO                                  36,000.00  SALDO TIDAK CUKUP           903213U012
+ 2813.  00181195745   HANDOKO                                  36,000.00  SALDO TIDAK CUKUP           903213U012
+ 2811.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2802.  00181195745   HANDOKO                                 100,000.00  SALDO TIDAK CUKUP           903213
+ 2810.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2809.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2808.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2807.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2806.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :     9
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 2805.  00181195745   HANDOKO                                  13,600.00  SALDO TIDAK CUKUP           903213U015
+ 2804.  00181195745   HANDOKO                                  13,600.00  SALDO TIDAK CUKUP           903213U015
+ 2865.  00182586003   HANDOKO SH                              200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2870.  00182586003   HANDOKO SH                            1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2866.  00182586003   HANDOKO SH                              200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2863.  00182586003   HANDOKO SH                              200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2861.  00182586003   HANDOKO SH                              200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2868.  00182586003   HANDOKO SH                            1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2867.  00182586003   HANDOKO SH                            1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2824.  00181195745   HANDOKO                               1,007,000.00  SALDO TIDAK CUKUP           903213999T
+ 2823.  00181195745   HANDOKO                                  50,000.00  SALDO TIDAK CUKUP           903213999I
+ 2822.  00181195745   HANDOKO                                  61,633.00  SALDO TIDAK CUKUP           903213010
+ 2803.  00181195745   HANDOKO                                 200,000.00  SALDO TIDAK CUKUP           903213U015
+ 2820.  00181195745   HANDOKO                                  36,000.00  SALDO TIDAK CUKUP           903213U012
+ 2819.  00181195745   HANDOKO                                 269,510.00  SALDO TIDAK CUKUP           903213U012
+ 2818.  00181195745   HANDOKO                               1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2817.  00181195745   HANDOKO                                  36,000.00  SALDO TIDAK CUKUP           903213U012
+ 2816.  00181195745   HANDOKO                               1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2815.  00181195745   HANDOKO                               1,500,000.00  SALDO TIDAK CUKUP           903213U012
+ 2795.  00181195664   ACHMAD SUHADI                           100,000.00  SALDO TIDAK CUKUP           902793
+ C A B A N G     : 0000024-KCU JEMBER
+ 2241.  00245050301   AJENG KARINA SEKAR PUTRI                820,000.00  TUTUP REKENING.             897708008
+ 2099.  00241067857   BAMBANG SUSILO                          100,000.00  SALDO TIDAK CUKUP           911683999I
+ C A B A N G     : 0000026-KCU MANADO
+ 3186.  00262066060   GABRIELLA SAROINSONG                     10,000.00  TUTUP REKENING.             055725005
+ C A B A N G     : 0000035-KCU SUDIRMAN
+ 2313.  00350211748   MUHAMAD RUSLI                            10,000.00  POST IND. : X               970258005
+ 3433.  00356016933   DIYAN SUNOTO                          8,760,900.00  SALDO TIDAK CUKUP           904572999T
+ 2380.  00350246452   JOKO SUMANTO SH                          25,000.00  TUTUP REKENING.             898378005
+ 2141.  00350038019   MASKUN                                   10,000.00  SALDO TIDAK CUKUP           231119005
+ 2686.  00350755799   CHIN HERWIN TANDIAWAN                     6,000.00  SALDO TIDAK CUKUP           920423005
+ 2314.  00350211748   MUHAMAD RUSLI                         2,860,000.00  POST IND. : X               970258TUND
+ 2445.  00350325956   SILVA SELLY                             795,600.00  TUTUP REKENING.             973669999T
+ 2274.  00350172483   EDJA GANDASMARA                          10,000.00  TUTUP REKENING.             911565005
+ 2446.  00350325956   SILVA SELLY                              50,000.00  TUTUP REKENING.             973669999I
+ 2315.  00350211748   MUHAMAD RUSLI                           100,000.00  POST IND. : X               970258
+ C A B A N G     : 0000044-KCU AMBON
+ 4514.  00440315925   DENI SRIANTO BELEN                       10,000.00  SALDO TIDAK CUKUP           974053005
+ C A B A N G     : 0000065-KCU KELAPA GADING
+ 4073.  00650068149   AGUSTINUS WIDYAHARSANTO                  50,000.00  SALDO TIDAK CUKUP           971021999I
+ 4072.  00650068149   AGUSTINUS WIDYAHARSANTO               7,753,900.00  SALDO TIDAK CUKUP           971021999T
+ C A B A N G     : 0000069-KCU MUARA KARANG
+ 7586.  01686096531   VERONIKA WIEN H                          50,000.00  SALDO TIDAK CUKUP           913700999I
+ 7587.  01686096531   VERONIKA WIEN H                       2,114,700.00  SALDO TIDAK CUKUP           913700999T
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    10
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ C A B A N G     : 0000084-KCU WISMA ASIA
+ 4577.  00840270106   VERLITA YUNIKAFARI                       15,000.00  TUTUP REKENING.             055406005
+ C A B A N G     : 0000087-KCP SUNGKONO
+ 5296.  00870038127   YUNIAR SETIA RINI                       100,000.00  SALDO TIDAK CUKUP           903336
+ 5302.  00879024244   MUHAMMAD IMRON                          650,000.00  SALDO TIDAK CUKUP           921578LNRM
+ C A B A N G     : 0000088-KCU DARMO
+ 6301.  00885162377   WIWID WIDYAWATI SE                    1,000,000.00  SALDO TIDAK CUKUP           030305LNRM
+ 5944.  00881168960   AGOES WIDJAJA                         9,750,000.00  SALDO TIDAK CUKUP           904741U002
+ 6302.  00885162377   WIWID WIDYAWATI SE                      100,000.00  SALDO TIDAK CUKUP           030305
+ 6310.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6311.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6312.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6313.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6314.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6315.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6316.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6317.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6318.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6319.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6320.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6321.  00885184001   SULATIK                                 200,000.00  SALDO TIDAK CUKUP           920892U007
+ 6322.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6323.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6324.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6325.  00885184001   SULATIK                                  26,000.00  SALDO TIDAK CUKUP           920892U006
+ 6326.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6327.  00885184001   SULATIK                                  24,000.00  SALDO TIDAK CUKUP           920892U006
+ 6328.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6329.  00885184001   SULATIK                                  77,800.00  SALDO TIDAK CUKUP           920892U015
+ 6330.  00885184001   SULATIK                                  24,000.00  SALDO TIDAK CUKUP           920892U006
+ 6331.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6332.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6333.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6334.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6335.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6336.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6337.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6338.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6339.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6340.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6341.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6342.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6018.  00881232684   MUJIANA                               2,500,000.00  SALDO TIDAK CUKUP           921870PTHR
+ 6020.  00881232684   MUJIANA                               2,500,000.00  SALDO TIDAK CUKUP           921870PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    11
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 6021.  00881232684   MUJIANA                                 637,000.00  SALDO TIDAK CUKUP           921870LNRM
+ 6022.  00881232684   MUJIANA                               5,850,000.00  SALDO TIDAK CUKUP           921870LNRM
+ 6023.  00881232684   MUJIANA                                 100,000.00  SALDO TIDAK CUKUP           921870
+ 6024.  00881232684   MUJIANA                                  51,000.00  SALDO TIDAK CUKUP           921870U017
+ 6025.  00881232684   MUJIANA                                 300,000.00  SALDO TIDAK CUKUP           921870U017
+ 6026.  00881232684   MUJIANA                                 103,000.00  SALDO TIDAK CUKUP           921870U017
+ 6027.  00881232684   MUJIANA                                 103,000.00  SALDO TIDAK CUKUP           921870U017
+ 6028.  00881232684   MUJIANA                                  51,612.00  SALDO TIDAK CUKUP           921870U017
+ 6029.  00881232684   MUJIANA                                  26,818.00  SALDO TIDAK CUKUP           921870U017
+ 6030.  00881232684   MUJIANA                                 882,250.00  SALDO TIDAK CUKUP           921870U005
+ 6031.  00881232684   MUJIANA                               5,000,000.00  SALDO TIDAK CUKUP           921870U002
+ 6032.  00881232684   MUJIANA                                 104,236.00  SALDO TIDAK CUKUP           921870U017
+ 6033.  00881232684   MUJIANA                                 769,600.00  SALDO TIDAK CUKUP           921870U005
+ 6034.  00881232684   MUJIANA                                 130,000.00  SALDO TIDAK CUKUP           921870023
+ 5858.  00881117885   HERMIATI                                100,000.00  SALDO TIDAK CUKUP           902860
+ 6300.  00885162377   WIWID WIDYAWATI SE                      279,000.00  SALDO TIDAK CUKUP           030305LNRM
+ 5648.  00880440632   KRISTIN DENNI                         1,000,000.00  SALDO TIDAK CUKUP           974072PTHR
+ 5650.  00880440632   KRISTIN DENNI                         1,000,000.00  SALDO TIDAK CUKUP           974072PTHR
+ 5651.  00880440632   KRISTIN DENNI                         1,250,000.00  SALDO TIDAK CUKUP           974072LNRM
+ 5652.  00880440632   KRISTIN DENNI                         1,250,000.00  SALDO TIDAK CUKUP           974072LNRM
+ 5653.  00880440632   KRISTIN DENNI                           135,500.00  SALDO TIDAK CUKUP           974072LNRM
+ 5654.  00880440632   KRISTIN DENNI                         1,000,000.00  SALDO TIDAK CUKUP           974072PTHR
+ 5655.  00880440632   KRISTIN DENNI                         1,000,000.00  SALDO TIDAK CUKUP           974072PTHR
+ 5656.  00880440632   KRISTIN DENNI                           711,865.00  SALDO TIDAK CUKUP           974072U012
+ 5657.  00880440632   KRISTIN DENNI                           711,865.00  SALDO TIDAK CUKUP           974072U012
+ 5658.  00880440632   KRISTIN DENNI                            10,000.00  SALDO TIDAK CUKUP           974072005
+ 5659.  00880440632   KRISTIN DENNI                           711,865.00  SALDO TIDAK CUKUP           974072U012
+ 5660.  00880440632   KRISTIN DENNI                           711,865.00  SALDO TIDAK CUKUP           974072U012
+ 5661.  00880440632   KRISTIN DENNI                            30,000.00  SALDO TIDAK CUKUP           974072U012
+ 5662.  00880440632   KRISTIN DENNI                           711,865.00  SALDO TIDAK CUKUP           974072U012
+ 5663.  00880440632   KRISTIN DENNI                           125,000.00  SALDO TIDAK CUKUP           974072U015
+ 5664.  00880440632   KRISTIN DENNI                           125,000.00  SALDO TIDAK CUKUP           974072U015
+ 5665.  00880440632   KRISTIN DENNI                           125,000.00  SALDO TIDAK CUKUP           974072U015
+ 5666.  00880440632   KRISTIN DENNI                           125,000.00  SALDO TIDAK CUKUP           974072U015
+ 5667.  00880440632   KRISTIN DENNI                           125,000.00  SALDO TIDAK CUKUP           974072U015
+ 5668.  00880440632   KRISTIN DENNI                           100,000.00  SALDO TIDAK CUKUP           974072
+ 6395.  00885391716   TRY KUSWENDRA                         1,065,050.00  SALDO TIDAK CUKUP           102006008
+ 6409.  00885704129   CATUR GANJAR SAPUTRO                    100,000.00  SALDO TIDAK CUKUP           010413
+ 6410.  00885704129   CATUR GANJAR SAPUTRO                    617,500.00  SALDO TIDAK CUKUP           010413LNRM
+ 6411.  00885704129   CATUR GANJAR SAPUTRO                    224,000.00  SALDO TIDAK CUKUP           010413TUND
+ 6343.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6344.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6345.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6346.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    12
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 6347.  00885184001   SULATIK                                 364,422.00  SALDO TIDAK CUKUP           920892U012
+ 6348.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6349.  00885184001   SULATIK                                 364,423.00  SALDO TIDAK CUKUP           920892U012
+ 6350.  00885184001   SULATIK                                 100,000.00  SALDO TIDAK CUKUP           920892
+ 6351.  00885184001   SULATIK                                 750,000.00  SALDO TIDAK CUKUP           920892PTHR
+ 6352.  00885184001   SULATIK                                 777,999.00  SALDO TIDAK CUKUP           920892LNRM
+ 6353.  00885184001   SULATIK                                 778,001.00  SALDO TIDAK CUKUP           920892LNRM
+ 6354.  00885184001   SULATIK                                 750,000.00  SALDO TIDAK CUKUP           920892PTHR
+ 6356.  00885184001   SULATIK                                 750,000.00  SALDO TIDAK CUKUP           920892PTHR
+ 6357.  00885184001   SULATIK                                 750,000.00  SALDO TIDAK CUKUP           920892PTHR
+ 5427.  00880333011   SANDY DEBORAH MERCIA                 12,000,000.00  SALDO TIDAK CUKUP           962795U002
+ 5354.  00880245902   ALF ANDIKA PANGESTU SE                  100,000.00  SALDO TIDAK CUKUP           960951
+ 5321.  00880157876   BARFITTO                                 69,960.00  SALDO TIDAK CUKUP           964050BRG
+ 5322.  00880157876   BARFITTO                              1,500,000.00  SALDO TIDAK CUKUP           964050LNRM
+ 5323.  00880157876   BARFITTO                                537,500.00  SALDO TIDAK CUKUP           964050LNRM
+ 5324.  00880157876   BARFITTO                              1,500,000.00  SALDO TIDAK CUKUP           964050LNRM
+ 5325.  00880157876   BARFITTO                                500,000.00  SALDO TIDAK CUKUP           964050PTHR
+ 5326.  00880157876   BARFITTO                                500,000.00  SALDO TIDAK CUKUP           964050PTHR
+ 5327.  00880157876   BARFITTO                                500,000.00  SALDO TIDAK CUKUP           964050PTHR
+ 5328.  00880157876   BARFITTO                                500,000.00  SALDO TIDAK CUKUP           964050PTHR
+ 5329.  00880157876   BARFITTO                                937,833.00  SALDO TIDAK CUKUP           964050U012
+ 5330.  00880157876   BARFITTO                                100,000.00  SALDO TIDAK CUKUP           964050
+ 5335.  00880173499   FERRY INDRA GUNAWAN                     750,000.00  SALDO TIDAK CUKUP           960616PTHR
+ 5332.  00880173499   FERRY INDRA GUNAWAN                     100,000.00  SALDO TIDAK CUKUP           960616
+ 5333.  00880173499   FERRY INDRA GUNAWAN                     750,000.00  SALDO TIDAK CUKUP           960616PTHR
+ 5334.  00880173499   FERRY INDRA GUNAWAN                     700,000.00  SALDO TIDAK CUKUP           960616LNRM
+ 5515.  00880420321   WAHYU UTOMO                             100,000.00  SALDO TIDAK CUKUP           973267
+ 5516.  00880420321   WAHYU UTOMO                             550,001.00  SALDO TIDAK CUKUP           973267LNRM
+ 5518.  00880420321   WAHYU UTOMO                             549,999.00  SALDO TIDAK CUKUP           973267LNRM
+ 5519.  00880420321   WAHYU UTOMO                             625,000.00  SALDO TIDAK CUKUP           973267PTHR
+ 5520.  00880420321   WAHYU UTOMO                             625,000.00  SALDO TIDAK CUKUP           973267PTHR
+ 5521.  00880420321   WAHYU UTOMO                             625,000.00  SALDO TIDAK CUKUP           973267PTHR
+ 5522.  00880420321   WAHYU UTOMO                             625,000.00  SALDO TIDAK CUKUP           973267PTHR
+ C A B A N G     : 0000091-KCP SENEN
+ 6281.  00911109238   KABUL PITOYO                            100,000.00  TUTUP REKENING.             898706999I
+ C A B A N G     : 0000094-KCU RAWAMANGUN
+ 4218.  00656079635   ATIK SUSBANDIYAH                        596,700.00  TUTUP REKENING.             910996999T
+ 4219.  00656079635   ATIK SUSBANDIYAH                        596,700.00  TUTUP REKENING.             910996999T
+ 4220.  00656079635   ATIK SUSBANDIYAH                        100,000.00  TUTUP REKENING.             910996999I
+ 6356.  00940011337   SUPARMO                                  11,000.00  SALDO TIDAK CUKUP           231120005
+ C A B A N G     : 0000102-KCP PASAR ATUM
+ 6543.  01020075275   GAVRILA VANIA TJIABRATA                  10,000.00  SALDO TIDAK CUKUP           061612005
+ C A B A N G     : 0000107-KCP MANGGA DUA SURABAYA
+ 6654.  01070477862   DEDI SURJANTO                            10,000.00  SALDO TIDAK CUKUP           311205003
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    13
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ C A B A N G     : 0000130-KCP MANYAR
+ 7157.  01302336665   ALVINDO MIO PAMBAGUS                     10,000.00  SALDO TIDAK CUKUP           627843003
+ 7143.  01301966666   HERU TRIJANTO SE                      5,000,000.00  SALDO TIDAK CUKUP           010451PTHR
+ C A B A N G     : 0000146-KCU KUTA
+ 7265.  01460816510   KRISTIANA MANULLANG                   2,114,700.00  SALDO TIDAK CUKUP           004884999T
+ C A B A N G     : 0000187-KCP PERAK
+ 7829.  01870226400   EDY MULYONO                             647,500.00  SALDO TIDAK CUKUP           910538LNRM
+ 7830.  01870226400   EDY MULYONO                           1,250,000.00  SALDO TIDAK CUKUP           910538PTHR
+ 7831.  01870226400   EDY MULYONO                           1,250,000.00  SALDO TIDAK CUKUP           910538PTHR
+ 7820.  01870226001   EDY MULYONO                             647,500.00  SALDO TIDAK CUKUP           910538LNRM
+ 7827.  01870226400   EDY MULYONO                           7,500,000.00  SALDO TIDAK CUKUP           910538U002
+ 7819.  01870226001   EDY MULYONO                           1,250,000.00  SALDO TIDAK CUKUP           910538PTHR
+ 7835.  01871040473   AGUSTININGRUM L                       1,668,572.00  SALDO TIDAK CUKUP           900848TUND
+ 7836.  01871040473   AGUSTININGRUM L                         100,000.00  SALDO TIDAK CUKUP           900848
+ 7817.  01870226001   EDY MULYONO                           1,250,000.00  SALDO TIDAK CUKUP           910538PTHR
+ 7828.  01870226400   EDY MULYONO                             100,000.00  SALDO TIDAK CUKUP           910538
+ C A B A N G     : 0000191-KCU BALIKPAPAN
+ 7962.  01911047000   IBNUL HAJAR                             100,000.00  TUTUP REKENING.             050209
+ C A B A N G     : 0000192-KCP PAMEKASAN
+ 7987.  01920009103   HANDOKO                                 100,000.00  SALDO TIDAK CUKUP           901061
+ C A B A N G     : 0000206-KCU THAMRIN
+ 8133.  02060219977   CHRISTIAN RONALD KANDOW                   5,000.00  TUTUP REKENING.             180120005
+ C A B A N G     : 0000213-KCP KAPASAN
+ 8235.  02134111444   MUHAMMAD ANDI ZAINUDDIN                  10,000.00  TUTUP REKENING.             617019003
+ 8232.  02131039150   TRI MAULANA DJUNAIDI                    820,000.00  SALDO TIDAK CUKUP           899557LNRM
+ C A B A N G     : 0000215-KCP UNDAAN
+ 8262.  02156000971   BAGUS SETIABUDI                          10,000.00  SALDO TIDAK CUKUP           191116003
+ C A B A N G     : 0000217-KCU KUNINGAN
+ 8250.  02171131474   ANNA SUSIANTI                            50,000.00  TUTUP REKENING.             963103999I
+ C A B A N G     : 0000221-KCP MENARA IMPERIUM
+ 8400.  02211031915   R MUHAMMAD SYAIFUL ANWAR                 50,000.00  SALDO TIDAK CUKUP           973531999I
+ 8399.  02211031915   R MUHAMMAD SYAIFUL ANWAR              1,007,000.00  SALDO TIDAK CUKUP           973531999T
+ C A B A N G     : 0000243-KCP ABC
+ 5968.  02431111111   LINDA HERLINDA                           12,000.00  SALDO TIDAK CUKUP           974491005
+ C A B A N G     : 0000255-KCP MENARA MULIA
+ 8974.  02551009213   EVI VALENTINA                         1,007,000.00  SALDO TIDAK CUKUP           972105999T
+ 8972.  02551009213   EVI VALENTINA                            50,000.00  SALDO TIDAK CUKUP           972105999I
+ C A B A N G     : 0000256-KCP SEMUT
+ 8686.  02569888888   ALINE PURNOMO SE                      1,750,000.00  SALDO TIDAK CUKUP           963396PTHR
+ 8678.  02569888888   ALINE PURNOMO SE                        495,638.00  SALDO TIDAK CUKUP           963396BRG
+ 8687.  02569888888   ALINE PURNOMO SE                        100,000.00  SALDO TIDAK CUKUP           963396
+ 8681.  02569888888   ALINE PURNOMO SE                      1,941,750.00  SALDO TIDAK CUKUP           963396LNRM
+ 8682.  02569888888   ALINE PURNOMO SE                      1,941,750.00  SALDO TIDAK CUKUP           963396LNRM
+ 8684.  02569888888   ALINE PURNOMO SE                      1,750,000.00  SALDO TIDAK CUKUP           963396PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    14
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 8683.  02569888888   ALINE PURNOMO SE                      1,750,000.00  SALDO TIDAK CUKUP           963396PTHR
+ 8685.  02569888888   ALINE PURNOMO SE                      1,750,000.00  SALDO TIDAK CUKUP           963396PTHR
+ C A B A N G     : 0000258-KCU DIPONEGORO
+ 9003.  02581887452   SUNARYO                               5,000,000.00  SALDO TIDAK CUKUP           256126016
+ 8801.  02581305810   EKO MAFOEDI                              10,000.00  SALDO TIDAK CUKUP           300127003
+ 8979.  02581593777   THOMAS BOENAWAN TJIPTO               15,000,000.00  SALDO TIDAK CUKUP           950020U002
+ 8973.  02581532263   YUDI BASUKI DRS                          10,000.00  SALDO TIDAK CUKUP           864046005
+ 8948.  02581433311   SOEYANTO                                650,001.00  SALDO TIDAK CUKUP           900016LNRM
+ 8949.  02581433311   SOEYANTO                                250,000.00  SALDO TIDAK CUKUP           900016PTHR
+ 8950.  02581433311   SOEYANTO                                250,000.00  SALDO TIDAK CUKUP           900016PTHR
+ 8957.  02581433338   SOEYANTO                                100,000.00  SALDO TIDAK CUKUP           900016
+ 8958.  02581433338   SOEYANTO                              7,500,000.00  SALDO TIDAK CUKUP           900016U002
+ 8741.  02580913302   INDRIYAWATI CHRYSDIANA                1,850,001.00  SALDO TIDAK CUKUP           911184LNRM
+ 8742.  02580913302   INDRIYAWATI CHRYSDIANA                  750,000.00  SALDO TIDAK CUKUP           911184PTHR
+ 8740.  02580913302   INDRIYAWATI CHRYSDIANA                  750,000.00  SALDO TIDAK CUKUP           911184PTHR
+ C A B A N G     : 0000273-KCP DEWI SARTIKA
+ 9360.  02731875555   TRI FAJAR SUBEKTI                     1,007,000.00  SALDO TIDAK CUKUP           057182999T
+ 9361.  02731875555   TRI FAJAR SUBEKTI                        50,000.00  SALDO TIDAK CUKUP           057182999I
+ C A B A N G     : 0000291-KCU PONDOK INDAH
+ 9549.  03191341561   M HARIS                               1,007,000.00  SALDO TIDAK CUKUP           931959999T
+ C A B A N G     : 0000308-KCP DUTA MERLIN
+ 2373.  00121175290   ABDUL MALIK                           1,172,514.00  SALDO TIDAK CUKUP           922072999T
+ C A B A N G     : 0000325-KCP GEDANGAN
+ 9678.  03250498887   NANIEK SOELISTYOWATI                    100,000.00  SALDO TIDAK CUKUP           811485
+ C A B A N G     : 0000330-KCP LAMONGAN
+ 9762.  03300441971   HIDAYATUL UMMA                           10,000.00  SALDO TIDAK CUKUP           058806005
+ C A B A N G     : 0000331-KCP BLIMBING
+ 6525.  03314008800   PETRUS CLAVER FERRY SEPT              2,902,095.00  SALDO TIDAK CUKUP           010114999T
+ 6524.  03314008800   PETRUS CLAVER FERRY SEPT                 50,000.00  SALDO TIDAK CUKUP           010114999I
+ C A B A N G     : 0000363-KCP TUNJUNGAN PLAZA
+ 9953.  03630008386   DONNY FIRMANSYAH PUTRA                   10,000.00  SALDO TIDAK CUKUP           230117003
+ C A B A N G     : 0000364-KCP RAJAWALI
+ 9983.  03640046839   FADHOLI                                  10,000.00  SALDO TIDAK CUKUP           941156004
+ C A B A N G     : 0000369-KCP PS. TANAH ABANG
+   22.  03691103755   WIRYO                                   100,000.00  SALDO TIDAK CUKUP           911832999I
+   23.  03691103755   WIRYO                                 1,341,700.00  SALDO TIDAK CUKUP           911832999T
+ C A B A N G     : 0000388-KCP DHARMAHUSADA
+   87.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   85.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   88.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   89.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   86.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   91.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   84.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    15
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+   83.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   82.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   81.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  107.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  108.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+   90.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  102.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+   99.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+   92.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  104.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  103.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  106.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  101.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  100.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+   98.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+   93.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   97.  03880334378   HOOGERVORST DANNI                        13,000.00  SALDO TIDAK CUKUP           962205U006
+   96.  03880334378   HOOGERVORST DANNI                        39,000.00  SALDO TIDAK CUKUP           962205U006
+   95.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+   94.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  109.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  139.  03880412999   MOCHAMAD YOSEP                        1,250,000.00  SALDO TIDAK CUKUP           920079LNRM
+  127.  03880334378   HOOGERVORST DANNI                       100,000.00  SALDO TIDAK CUKUP           962205
+  134.  03880334475   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  132.  03880334475   HOOGERVORST DANNI                       675,000.00  SALDO TIDAK CUKUP           962205LNRM
+  131.  03880334475   HOOGERVORST DANNI                       750,000.00  SALDO TIDAK CUKUP           962205PTHR
+  130.  03880334378   HOOGERVORST DANNI                       750,000.00  SALDO TIDAK CUKUP           962205PTHR
+  129.  03880334378   HOOGERVORST DANNI                       675,000.00  SALDO TIDAK CUKUP           962205LNRM
+  128.  03880334378   HOOGERVORST DANNI                       750,000.00  SALDO TIDAK CUKUP           962205PTHR
+  126.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  110.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  125.  03880334378   HOOGERVORST DANNI                        52,429.00  SALDO TIDAK CUKUP           962205U012
+  124.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  123.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  122.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  133.  03880334475   HOOGERVORST DANNI                       750,000.00  SALDO TIDAK CUKUP           962205PTHR
+  121.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  111.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  120.  03880334378   HOOGERVORST DANNI                       404,615.00  SALDO TIDAK CUKUP           962205U012
+  137.  03880412999   MOCHAMAD YOSEP                          100,000.00  SALDO TIDAK CUKUP           920079
+  119.  03880334378   HOOGERVORST DANNI                       300,000.00  SALDO TIDAK CUKUP           962205U007
+  140.  03880412999   MOCHAMAD YOSEP                        1,250,000.00  SALDO TIDAK CUKUP           920079LNRM
+  118.  03880334378   HOOGERVORST DANNI                       100,000.00  SALDO TIDAK CUKUP           962205U007
+  117.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    16
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+  116.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  115.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  114.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  113.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  112.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+  105.  03880334378   HOOGERVORST DANNI                        67,500.00  SALDO TIDAK CUKUP           962205U015
+ C A B A N G     : 0000421-KCP MARGO CITY
+  845.  04212510924   EDI SAEDI                                50,000.00  SALDO TIDAK CUKUP           950078999I
+  844.  04212510924   EDI SAEDI                             3,026,540.00  SALDO TIDAK CUKUP           950078999T
+ C A B A N G     : 0000429-KCP AHMAD YANI
+  274.  04290222007   ARNOLD PRIAJAYA                           7,896.00  SALDO TIDAK CUKUP           970270U007
+  273.  04290222007   ARNOLD PRIAJAYA                           9,856.00  SALDO TIDAK CUKUP           970270U007
+  272.  04290222007   ARNOLD PRIAJAYA                          10,560.00  SALDO TIDAK CUKUP           970270U006
+  271.  04290222007   ARNOLD PRIAJAYA                           8,460.00  SALDO TIDAK CUKUP           970270U006
+  269.  04290212273   ARNOLD PRIAJAYA                         625,000.00  SALDO TIDAK CUKUP           970270PTHR
+  268.  04290212273   ARNOLD PRIAJAYA                         625,000.00  SALDO TIDAK CUKUP           970270PTHR
+  266.  04290212273   ARNOLD PRIAJAYA                         625,000.00  SALDO TIDAK CUKUP           970270PTHR
+  267.  04290212273   ARNOLD PRIAJAYA                         625,000.00  SALDO TIDAK CUKUP           970270PTHR
+  265.  04290212273   ARNOLD PRIAJAYA                          98,560.00  SALDO TIDAK CUKUP           970270BRG
+  263.  04290212273   ARNOLD PRIAJAYA                         500,001.00  SALDO TIDAK CUKUP           970270LNRM
+  262.  04290212273   ARNOLD PRIAJAYA                         499,999.00  SALDO TIDAK CUKUP           970270LNRM
+  260.  04290212273   ARNOLD PRIAJAYA                         100,000.00  SALDO TIDAK CUKUP           970270
+  264.  04290212273   ARNOLD PRIAJAYA                          78,960.00  SALDO TIDAK CUKUP           970270BRG
+ C A B A N G     : 0000445-KCP KATAMSO
+  331.  04450336284   JUMARI                                  100,000.00  TUTUP REKENING.             950431999I
+ C A B A N G     : 0000458-KCP BURSA EFEK JKT
+ 1253.  04582545603   DEDI SUPRIATNA                           10,000.00                              231121005
+ C A B A N G     : 0000459-KCP WISMA INDOCEMENT
+  450.  04591064112   DJAKA KUSUMAYADI                      1,007,000.00  TUTUP REKENING.             971984999T
+  449.  04591064112   DJAKA KUSUMAYADI                         50,000.00  TUTUP REKENING.             971984999I
+ C A B A N G     : 0000468-KCU INDRAPURA SBY
+ 1381.  05580009818   RUDI KURNIAWAN                          100,000.00  SALDO TIDAK CUKUP           973908
+ C A B A N G     : 0000481-KCP TELUK MAS
+  818.  04811051009   TATIEK WINTYASARI                     6,444,480.00  SALDO TIDAK CUKUP           973604999T
+ C A B A N G     : 0005090-KCP GENTENG KALI
+ 1025.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1020.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1022.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1023.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1024.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1028.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1026.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1027.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1030.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    17
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1021.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1017.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1019.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1018.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1008.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1016.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1015.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1014.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1013.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1012.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1011.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1010.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1029.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1033.  05090111363   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1044.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1031.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1095.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1094.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1093.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1092.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1091.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1090.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1089.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1046.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1045.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1043.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1032.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1042.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1041.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1040.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1039.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1038.  05090111363   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1037.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1036.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1035.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1034.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1009.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1006.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  973.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1005.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  982.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  981.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  980.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  979.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    18
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+  978.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  977.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  976.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  975.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  974.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  972.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1007.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  971.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  970.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  969.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  968.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  967.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  966.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  965.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  964.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  963.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  983.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  984.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  986.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  985.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1004.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1003.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1002.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1001.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1000.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  999.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  998.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  997.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  996.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  995.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  994.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  993.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  992.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  991.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  990.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  989.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  988.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  987.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1096.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1067.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1076.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1074.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1073.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1072.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    19
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1071.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1070.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1069.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1068.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1066.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1057.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1065.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1064.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1063.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1062.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1061.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1060.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1059.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1075.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1077.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1087.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+  957.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  959.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1098.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+  952.  05090111363   AGUS SLAMET SANTOSO                   1,878,660.00  SALDO TIDAK CUKUP           900259LNRM
+  960.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+  950.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+  961.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1088.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1086.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1078.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1085.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1084.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1083.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1082.  05090112726   AGUS SLAMET SANTOSO                     621,340.00  SALDO TIDAK CUKUP           900259LNRM
+ 1081.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1080.  05090111363   AGUS SLAMET SANTOSO                     100,000.00  SALDO TIDAK CUKUP           900259
+ 1079.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1058.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1056.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1107.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1116.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1114.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1113.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1112.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1111.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1110.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1109.  05090112726   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1108.  05090112726   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    20
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1106.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1097.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1105.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1104.  05090112726   AGUS SLAMET SANTOSO                       6,000.00  SALDO TIDAK CUKUP           900259U017
+ 1103.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1102.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1101.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1100.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1099.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1115.  05090112726   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1117.  05090112726   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1047.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1055.  05090111363   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1054.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1053.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1052.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1051.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1050.  05090111363   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1049.  05090111363   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1048.  05090111363   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+  962.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ 1118.  05090112726   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1125.  05090112726   AGUS SLAMET SANTOSO                   1,605,601.00  SALDO TIDAK CUKUP           900259U012
+ 1124.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1123.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1122.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+ 1121.  05090112726   AGUS SLAMET SANTOSO                     187,866.00  SALDO TIDAK CUKUP           900259U015
+ 1120.  05090112726   AGUS SLAMET SANTOSO                      62,134.00  SALDO TIDAK CUKUP           900259U015
+ 1119.  05090112726   AGUS SLAMET SANTOSO                     288,000.00  SALDO TIDAK CUKUP           900259U012
+  958.  05090111363   AGUS SLAMET SANTOSO                      31,250.00  SALDO TIDAK CUKUP           900259PTHR
+ C A B A N G     : 0005270-KCP BINA NUSANTARA
+ 1245.  05270388819   HADY PERMANA PUTRA                        5,000.00  TUTUP REKENING.             051016005
+ C A B A N G     : 0005320-KCP TELEPON KOTA
+ 1344.  05320188999   SRIYANTO                                100,000.00  SALDO TIDAK CUKUP           975992999I
+ C A B A N G     : 0005550-KCP M. DURYAT
+ 1375.  05550777705   NUNGKY KUSUMA ASTUTI                     10,000.00  TUTUP REKENING.             059482005
+ C A B A N G     : 0006120-KCP KUPANG JAYA
+ 1579.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1578.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1577.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1581.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1576.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1575.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1574.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    21
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1573.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1571.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1580.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1588.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1582.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1583.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1584.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1585.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1586.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1587.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1589.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1590.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1591.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1592.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1572.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1564.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1601.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1570.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1562.  06120161421   M IMRON                                 100,000.00  SALDO TIDAK CUKUP           921578
+ 1593.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1594.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1595.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1596.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1597.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1598.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U012
+ 1599.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1600.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1602.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1569.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1603.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1604.  06120161421   M IMRON                                 638,235.00  SALDO TIDAK CUKUP           921578U012
+ 1605.  06120161421   M IMRON                                 703,235.00  SALDO TIDAK CUKUP           921578U012
+ 1565.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1566.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1567.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ 1568.  06120161421   M IMRON                                  65,000.00  SALDO TIDAK CUKUP           921578U015
+ C A B A N G     : 0006670-KCP JUANDA
+ 1726.  06670402728   ASMARANI PRIHANDINI                   1,229,500.00  SALDO TIDAK CUKUP           330817008
+ C A B A N G     : 0006720-KCP TAMAN PONDOK INDAH
+ 1758.  06720352379   ARDIANSYAH HARAHAP                       10,000.00  TUTUP REKENING.             787714003
+ C A B A N G     : 0006730-KCP RUNGKUT MEGAH
+ 1768.  06730191209   RUFI PURWANINGSIH                       100,000.00  SALDO TIDAK CUKUP           055128
+ 1769.  06730191209   RUFI PURWANINGSIH                     1,193,500.00  SALDO TIDAK CUKUP           055128LNRM
+ 1766.  06730191209   RUFI PURWANINGSIH                       360,000.00  SALDO TIDAK CUKUP           055128U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    22
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 1770.  06730191209   RUFI PURWANINGSIH                       895,500.00  SALDO TIDAK CUKUP           055128BRG
+ 1760.  06730191209   RUFI PURWANINGSIH                       500,000.00  SALDO TIDAK CUKUP           055128U007
+ 1767.  06730191209   RUFI PURWANINGSIH                       360,000.00  SALDO TIDAK CUKUP           055128U012
+ 1762.  06730191209   RUFI PURWANINGSIH                        39,000.00  SALDO TIDAK CUKUP           055128U006
+ 1765.  06730191209   RUFI PURWANINGSIH                       269,820.00  SALDO TIDAK CUKUP           055128U006
+ 1764.  06730191209   RUFI PURWANINGSIH                        65,000.00  SALDO TIDAK CUKUP           055128U006
+ 1763.  06730191209   RUFI PURWANINGSIH                       269,820.00  SALDO TIDAK CUKUP           055128U006
+ 1759.  06730191209   RUFI PURWANINGSIH                       360,000.00  SALDO TIDAK CUKUP           055128U012
+ C A B A N G     : 0007210-KCP GUNUNGSARI
+ 1861.  07210190516   ACHMAD SAIFUDIN                          10,000.00  SALDO TIDAK CUKUP           151801003
+ C A B A N G     : 0007460-KCP AGUNG SEDAYU II
+ 1968.  07460238875   SYLVIA                                   50,000.00  TUTUP REKENING.             975988999I
+ 1969.  07460238875   SYLVIA                                  805,600.00  TUTUP REKENING.             975988999T
+ 1670.  06390047353   ABIDIN                                2,187,900.00  SALDO TIDAK CUKUP           975215999T
+ C A B A N G     : 0007770-KCU DAGO
+ 1968.  00161573948   NENENG S W                            4,330,100.00  SALDO TIDAK CUKUP           914297999T
+ C A B A N G     : 0007880-KCU GALAXY
+ 2417.  07880689350   NUZULUL HIKMAH RAMADHANI                 10,000.00  TUTUP REKENING.             020414003
+ 2433.  07880993199   NUGRAHANING WIDHI ERSTI               1,250,000.00  SALDO TIDAK CUKUP           910856PTHR
+ 2435.  07880993199   NUGRAHANING WIDHI ERSTI               1,000,001.00  SALDO TIDAK CUKUP           910856LNRM
+ 2436.  07880993199   NUGRAHANING WIDHI ERSTI               1,250,000.00  SALDO TIDAK CUKUP           910856PTHR
+ 2437.  07880993199   NUGRAHANING WIDHI ERSTI               1,250,000.00  SALDO TIDAK CUKUP           910856PTHR
+ 2438.  07880993199   NUGRAHANING WIDHI ERSTI               1,250,000.00  SALDO TIDAK CUKUP           910856PTHR
+ 2439.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2440.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2441.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2442.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2443.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2444.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2445.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2446.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2447.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2448.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2449.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2450.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2451.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2452.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2453.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2454.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2455.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2456.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2457.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2458.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2459.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    23
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 2460.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2461.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2462.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2463.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2464.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2465.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2466.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2467.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2468.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2469.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2470.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2472.  07880993199   NUGRAHANING WIDHI ERSTI                 100,000.00  SALDO TIDAK CUKUP           910856U015
+ 2473.  07880993199   NUGRAHANING WIDHI ERSTI                 100,000.00  SALDO TIDAK CUKUP           910856U015
+ 2474.  07880993199   NUGRAHANING WIDHI ERSTI                 100,000.00  SALDO TIDAK CUKUP           910856U015
+ 2475.  07880993199   NUGRAHANING WIDHI ERSTI                 100,000.00  SALDO TIDAK CUKUP           910856U015
+ 2476.  07880993199   NUGRAHANING WIDHI ERSTI                 100,000.00  SALDO TIDAK CUKUP           910856U015
+ 2477.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2478.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2479.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2480.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2481.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2482.  07880993199   NUGRAHANING WIDHI ERSTI                 839,256.00  SALDO TIDAK CUKUP           910856U012
+ 2483.  07880993199   NUGRAHANING WIDHI ERSTI                 839,255.00  SALDO TIDAK CUKUP           910856U012
+ 2484.  07880993199   NUGRAHANING WIDHI ERSTI                 100,000.00  SALDO TIDAK CUKUP           910856
+ 2383.  07880088089   TEGUH PRIHANTO                        1,500,000.00  SALDO TIDAK CUKUP           904370LNRM
+ 2384.  07880088089   TEGUH PRIHANTO                        1,500,000.00  SALDO TIDAK CUKUP           904370LNRM
+ 2260.  07880062021   TOERINO WINARSO                       1,250,000.00  SALDO TIDAK CUKUP           897660PTHR
+ 2262.  07880062021   TOERINO WINARSO                       1,126,500.00  SALDO TIDAK CUKUP           897660LNRM
+ 2263.  07880062021   TOERINO WINARSO                       1,250,000.00  SALDO TIDAK CUKUP           897660PTHR
+ 2264.  07880062021   TOERINO WINARSO                         100,000.00  SALDO TIDAK CUKUP           897660
+ C A B A N G     : 0007900-KCU GRESIK
+ 2613.  07900334618   HARI SUCAHYO                             10,000.00  SALDO TIDAK CUKUP           885714003
+ C A B A N G     : 0008220-KCU RUNGKUT
+ 2975.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2963.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2965.  08220444440   AGUSTINA SUSANTI                        750,000.00  SALDO TIDAK CUKUP           976579U007
+ 2966.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2967.  08220444440   AGUSTINA SUSANTI                         48,000.00  SALDO TIDAK CUKUP           976579U006
+ 2974.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2969.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2970.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2971.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2972.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2973.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    24
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 2929.  08220258808   AGUSTINA SUSANTI                        600,000.00  TUTUP REKENING.             976579U012
+ 2976.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2927.  08220258808   AGUSTINA SUSANTI                        625,000.00  TUTUP REKENING.             976579PTHR
+ 2977.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2978.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2926.  08220258808   AGUSTINA SUSANTI                      1,294,500.00  TUTUP REKENING.             976579LNRM
+ 2979.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2980.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2981.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2982.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2983.  08220444440   AGUSTINA SUSANTI                         48,772.00  SALDO TIDAK CUKUP           976579010
+ 2984.  08220444440   AGUSTINA SUSANTI                        100,000.00  SALDO TIDAK CUKUP           976579
+ 2925.  08220258808   AGUSTINA SUSANTI                         48,000.00  TUTUP REKENING.             976579U006
+ 2968.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2962.  08220444440   AGUSTINA SUSANTI                        201,934.00  SALDO TIDAK CUKUP           976579U006
+ 2950.  08220444440   AGUSTINA SUSANTI                         97,500.00  SALDO TIDAK CUKUP           976579U006
+ 2964.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2940.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2941.  08220444440   AGUSTINA SUSANTI                        600,000.00  SALDO TIDAK CUKUP           976579U012
+ 2942.  08220444440   AGUSTINA SUSANTI                      1,294,500.00  SALDO TIDAK CUKUP           976579LNRM
+ 2943.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2944.  08220444440   AGUSTINA SUSANTI                        625,000.00  SALDO TIDAK CUKUP           976579PTHR
+ 2945.  08220444440   AGUSTINA SUSANTI                        625,000.00  SALDO TIDAK CUKUP           976579PTHR
+ 2946.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2947.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2948.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2951.  08220444440   AGUSTINA SUSANTI                        409,860.00  SALDO TIDAK CUKUP           976579U017
+ 2961.  08220444440   AGUSTINA SUSANTI                         13,000.00  SALDO TIDAK CUKUP           976579U006
+ 2952.  08220444440   AGUSTINA SUSANTI                      1,000,000.00  SALDO TIDAK CUKUP           976579U002
+ 2953.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2923.  08220258808   AGUSTINA SUSANTI                        600,000.00  TUTUP REKENING.             976579U012
+ 2955.  08220444440   AGUSTINA SUSANTI                         48,000.00  SALDO TIDAK CUKUP           976579U006
+ 2956.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2957.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2958.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2959.  08220444440   AGUSTINA SUSANTI                        129,450.00  SALDO TIDAK CUKUP           976579U015
+ 2960.  08220444440   AGUSTINA SUSANTI                         12,000.00  SALDO TIDAK CUKUP           976579U006
+ 2928.  08220258808   AGUSTINA SUSANTI                        625,000.00  TUTUP REKENING.             976579PTHR
+ C A B A N G     : 0008290-KCU HR MUHAMMAD
+ 3296.  08290128511   DARIUS DUDDY DARMAWAN                   100,000.00  SALDO TIDAK CUKUP           940369
+ 3301.  08290133719   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3302.  08290133719   AGUS KRIST JAHYONO                      400,000.00  SALDO TIDAK CUKUP           901781LNRM
+ 3303.  08290133719   AGUS KRIST JAHYONO                      500,000.00  SALDO TIDAK CUKUP           901781PTHR
+ 3304.  08290133719   AGUS KRIST JAHYONO                      500,000.00  SALDO TIDAK CUKUP           901781PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    25
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 3305.  08290133719   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3306.  08290133719   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3307.  08290133719   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3160.  08290107360   AGUS KRIST JAHYONO                      100,000.00  SALDO TIDAK CUKUP           901781
+ 3161.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3162.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3163.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3164.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3165.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3166.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3167.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3168.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3169.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3170.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3171.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3172.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3173.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3174.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3175.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3176.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3177.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3178.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3179.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3180.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3181.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3182.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3183.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3184.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3185.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3186.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3187.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3188.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3525.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3526.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3527.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3528.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3529.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3530.  08290701415   KOMARI SE                             1,327,400.00  SALDO TIDAK CUKUP           976956U012
+ 3532.  08290756660   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3533.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3534.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3535.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3536.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3537.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    26
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 3538.  08290756660   KOMARI SE                                97,500.00  SALDO TIDAK CUKUP           976956U006
+ 3539.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3540.  08290756660   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3541.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3542.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3543.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3544.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3545.  08290756660   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3546.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3547.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3548.  08290756660   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3549.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3550.  08290756660   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3562.  08290981965   ASTUTI TRI NUGRAHENI DRA              5,000,000.00  SALDO TIDAK CUKUP           941204PTHR
+ 3563.  08290981965   ASTUTI TRI NUGRAHENI DRA              5,000,000.00  SALDO TIDAK CUKUP           941204PTHR
+ 3483.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3484.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3485.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3486.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3487.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3488.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3489.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3490.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3491.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3492.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3493.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3494.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3495.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3496.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3497.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3498.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3499.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3500.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3501.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3502.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3503.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3504.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3505.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3506.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3507.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3508.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3509.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3510.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3511.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    27
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 3512.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3513.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3514.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3515.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3516.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3517.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3518.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3519.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3520.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3521.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3522.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3523.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3524.  08290701415   KOMARI SE                             1,491,692.00  SALDO TIDAK CUKUP           976956U012
+ 3441.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3442.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3443.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3444.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3445.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3446.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3447.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3448.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3449.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3450.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3451.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3452.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3453.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3454.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3455.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3456.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3457.  08290701415   KOMARI SE                             7,500,000.00  SALDO TIDAK CUKUP           976956U002
+ 3458.  08290701415   KOMARI SE                               750,000.00  SALDO TIDAK CUKUP           976956U007
+ 3459.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3460.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3461.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3462.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3463.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3464.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3465.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3466.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3467.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3468.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3469.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3470.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3471.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    28
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 3472.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3473.  08290701415   KOMARI SE                                97,500.00  SALDO TIDAK CUKUP           976956U006
+ 3474.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3475.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3476.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3477.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3478.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3479.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3480.  08290701415   KOMARI SE                                90,000.00  SALDO TIDAK CUKUP           976956U006
+ 3481.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3482.  08290701415   KOMARI SE                               170,000.00  SALDO TIDAK CUKUP           976956U015
+ 3189.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3190.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3191.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3192.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3193.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3194.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3195.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3196.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3197.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3198.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3199.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3200.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3201.  08290107360   AGUS KRIST JAHYONO                       40,000.00  SALDO TIDAK CUKUP           901781U015
+ 3202.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3203.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3204.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3205.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3206.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3207.  08290107360   AGUS KRIST JAHYONO                      267,998.00  SALDO TIDAK CUKUP           901781U012
+ 3315.  08290141444   BASUKI                                  100,000.00  TUTUP REKENING.             963797
+ 3395.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3396.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3381.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3382.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3391.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3392.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3385.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3386.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3397.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3398.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3379.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3380.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3378.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    29
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 3389.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3390.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3387.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3388.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3393.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3394.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3383.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3384.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3399.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3400.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3401.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3402.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3403.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3404.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3405.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3406.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3407.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3408.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3409.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3410.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3411.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3412.  08290701415   KOMARI SE                               750,000.00  SALDO TIDAK CUKUP           976956U007
+ 3413.  08290701415   KOMARI SE                             1,700,000.00  SALDO TIDAK CUKUP           976956LNRM
+ 3415.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3416.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3417.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3418.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3419.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3420.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3421.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3422.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3423.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3424.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3425.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3426.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3427.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3428.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3429.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3430.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3431.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3432.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3433.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3434.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3435.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+1RETENSI         : RA. 1B/6B/2T                   STATUS UPLOAD AUTODEBET                                   FREKWENSI  : HARIAN
+ LAPORAN         : R-5069                             PERIODE : M E I                                       TANGGAL    : 24-05-18
+ CABANG          : 0000088-KCU DARMO                                                                        HALAMAN    :    30
+ NAMA PERUSAHAAN : 008800055-KOPERASI MITRA SEJAHTERA
+ ------------------------------------------------------------------------------------------------------------------------------------
+ NO.TRF NO. REKENING   N A M A                          NILAI TRANSFER     STATUS                      NO.IDENTITAS
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 3436.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3437.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3438.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3439.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3440.  08290701415   KOMARI SE                                31,250.00  SALDO TIDAK CUKUP           976956PTHR
+ 3258.  08290120790   ALF ANDIKA PANGESTU SE                1,439,000.00  SALDO TIDAK CUKUP           960951LNRM
+0   TOTAL UPLOAD GAGAL    :      1,211 REK.     NOMINAL :       581,202,855.00
+0PENDEBETAN YANG BERHASIL :
+0   TOTAL UPLOAD BERHASIL :      4,910 REK.     NOMINAL :     2,830,061,476.00
+0   TOTAL SELURUH UPLOAD  :      6,121 REK.     NOMINAL :     3,411,264,331.00
+-                                           ****  SELESAI UNTUK PERUSAHAAN INI  ****
+
